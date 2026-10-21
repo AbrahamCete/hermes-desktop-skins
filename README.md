@@ -7,7 +7,7 @@
 Dithered, hand-tuned pixel art for the three art slots of the desktop app: the hero above the wordmark and the two sidebar panels.
 Install once and switch themes from the theme picker.
 
-<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; 7 THEMES</sub>
+<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 1 COLLECTION &nbsp;·&nbsp; 7 THEMES</sub>
 
 <br /><br />
 
@@ -23,27 +23,34 @@ You need Hermes Desktop 0.22.2 or later.
 2. Flip the plugin's **Desktop** switch on. Desktop plugins installed from a package start turned off.
 3. Pick a theme in the theme picker.
 
-## Themes
+## Collections
 
-### GT3 RS
+Themes come in collections: one subject, several looks. Click a banner to see every theme of a collection applied to Hermes Desktop.
 
-Seven factory colours of the 992 GT3 RS, one theme each. Same art, different paint.
+<!-- catalog:start -->
+### [GT3 RS](collections/gt3rs) &nbsp;<sub>7 themes</sub>
 
-| | |
-|:---:|:---:|
-| ![GT3 RS Lava Orange](themes/gt3rs-lava/screenshot.png) **Lava Orange** · `gt3rs-lava` | ![GT3 RS Shark Blue](themes/gt3rs-shark/screenshot.png) **Shark Blue** · `gt3rs-shark` |
-| ![GT3 RS Python Green](themes/gt3rs-python/screenshot.png) **Python Green** · `gt3rs-python` | ![GT3 RS Guards Red](themes/gt3rs-guards/screenshot.png) **Guards Red** · `gt3rs-guards` |
-| ![GT3 RS Racing Yellow](themes/gt3rs-yellow/screenshot.png) **Racing Yellow** · `gt3rs-yellow` | ![GT3 RS GT Silver](themes/gt3rs-silver/screenshot.png) **GT Silver** · `gt3rs-silver` |
-| ![GT3 RS Ruby Star](themes/gt3rs-ruby/screenshot.png) **Ruby Star** · `gt3rs-ruby` | |
+<a href="collections/gt3rs"><img src="collections/gt3rs/banner.png" alt="GT3 RS: Guards Red, Lava Orange, Racing Yellow, Python Green, Shark Blue, Ruby Star, GT Silver" /></a>
+
+Seven factory colours of the 992 GT3 RS. Same car, different paint. **[Browse the collection →](collections/gt3rs)**
+
+<sub>`gt3rs-guards` `gt3rs-lava` `gt3rs-yellow` `gt3rs-python` `gt3rs-shark` `gt3rs-ruby` `gt3rs-silver`</sub>
 
 <details>
-<summary>All the art, side by side</summary>
+<summary><b>Every theme</b> (7)</summary>
 
-<br />
-
-![The hero, top and bottom art of every GT3 RS colour](media/gt3rs-colors.png)
+| Collection | Theme | Id | Files |
+|---|---|---|---|
+| [GT3 RS](collections/gt3rs) | Guards Red | `gt3rs-guards` | [screenshot](themes/gt3rs-guards/screenshot.png) · [art](themes/gt3rs-guards/art) |
+| [GT3 RS](collections/gt3rs) | Lava Orange | `gt3rs-lava` | [screenshot](themes/gt3rs-lava/screenshot.png) · [art](themes/gt3rs-lava/art) |
+| [GT3 RS](collections/gt3rs) | Racing Yellow | `gt3rs-yellow` | [screenshot](themes/gt3rs-yellow/screenshot.png) · [art](themes/gt3rs-yellow/art) |
+| [GT3 RS](collections/gt3rs) | Python Green | `gt3rs-python` | [screenshot](themes/gt3rs-python/screenshot.png) · [art](themes/gt3rs-python/art) |
+| [GT3 RS](collections/gt3rs) | Shark Blue | `gt3rs-shark` | [screenshot](themes/gt3rs-shark/screenshot.png) · [art](themes/gt3rs-shark/art) |
+| [GT3 RS](collections/gt3rs) | Ruby Star | `gt3rs-ruby` | [screenshot](themes/gt3rs-ruby/screenshot.png) · [art](themes/gt3rs-ruby/art) |
+| [GT3 RS](collections/gt3rs) | GT Silver | `gt3rs-silver` | [screenshot](themes/gt3rs-silver/screenshot.png) · [art](themes/gt3rs-silver/art) |
 
 </details>
+<!-- catalog:end -->
 
 ## Download the art
 
@@ -79,6 +86,7 @@ prompt ──► raw/*.png ──► tools/pixelate.py ──► art/*.png ─�
 | `tools/screenshot.mjs [theme ids…]` | Takes a real Hermes Desktop screenshot of each theme from an isolated, empty profile |
 | `tools/preview.py <theme-dir>` | Renders a quick layout mock without launching the app |
 | `tools/sheet.py <prefix> <out.png>` | Renders the side-by-side art sheet for a family of themes |
+| `tools/catalog.py` | Builds every collection's banner, art sheet and gallery page, and the collection index in this README |
 
 Requirements: Python 3 with Pillow, and Node 22 for the screenshots.
 
