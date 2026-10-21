@@ -7,7 +7,7 @@
 Dithered pixel art for the desktop app: a wide hero above the wordmark, two sidebar panels and a faint backdrop behind your conversations.
 Every theme has a dark and a light edition and a touch of animation. Install once and switch from the theme picker.
 
-<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 5 COLLECTIONS &nbsp;·&nbsp; 29 THEMES</sub>
+<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 6 COLLECTIONS &nbsp;·&nbsp; 34 THEMES</sub>
 
 <br /><br />
 
@@ -61,7 +61,7 @@ Themes are grouped by subject, and each subject has collections: one scene in se
 <!-- catalog:start -->
 ### [Edo](themes/edo)
 
-Japan's Edo period as woodblock prints: night scenes in dark mode, washi paper in light mode.
+Japan's Edo period as woodblock prints, from the great wave to fox spirits: night scenes in dark mode, washi paper in light mode.
 
 #### [Floating World](themes/edo/floating-world) &nbsp;<sub>5 themes</sub>
 
@@ -70,6 +70,14 @@ Japan's Edo period as woodblock prints: night scenes in dark mode, washi paper i
 Ukiyo-e in pixels: the great wave, Fuji, a ronin in the rain, koi and sakura. **[Browse the collection →](themes/edo/floating-world)**
 
 <sub>`edo-wave` `edo-fuji` `edo-ronin` `edo-koi` `edo-sakura`</sub>
+
+#### [Shrines & Spirits](themes/edo/spirits) &nbsp;<sub>5 themes</sub>
+
+<a href="themes/edo/spirits"><img src="themes/edo/spirits/banner.png" alt="Shrines & Spirits: Torii, Dragon, Kitsune, Crane, Bamboo" /></a>
+
+Torii in the sea, a storm dragon, fox spirits, winter cranes and a bamboo night walk. **[Browse the collection →](themes/edo/spirits)**
+
+<sub>`edo-torii` `edo-dragon` `edo-kitsune` `edo-crane` `edo-bamboo`</sub>
 
 ### [GT3 RS](themes/gt3rs)
 
@@ -112,7 +120,7 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 <sub>`space-saturn` `space-apollo` `space-voyager` `space-shuttle` `space-eva`</sub>
 
 <details>
-<summary><b>Every theme</b> (29)</summary>
+<summary><b>Every theme</b> (34)</summary>
 
 | Collection | Theme | Id | Screenshots |
 |---|---|---|---|
@@ -121,6 +129,11 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 | [Floating World](themes/edo/floating-world) | Ronin | `edo-ronin` | [dark](themes/edo/floating-world/ronin/screenshot.png) · [light](themes/edo/floating-world/ronin/screenshot-light.png) |
 | [Floating World](themes/edo/floating-world) | Koi | `edo-koi` | [dark](themes/edo/floating-world/koi/screenshot.png) · [light](themes/edo/floating-world/koi/screenshot-light.png) |
 | [Floating World](themes/edo/floating-world) | Sakura | `edo-sakura` | [dark](themes/edo/floating-world/sakura/screenshot.png) · [light](themes/edo/floating-world/sakura/screenshot-light.png) |
+| [Shrines & Spirits](themes/edo/spirits) | Torii | `edo-torii` | [dark](themes/edo/spirits/torii/screenshot.png) · [light](themes/edo/spirits/torii/screenshot-light.png) |
+| [Shrines & Spirits](themes/edo/spirits) | Dragon | `edo-dragon` | [dark](themes/edo/spirits/dragon/screenshot.png) · [light](themes/edo/spirits/dragon/screenshot-light.png) |
+| [Shrines & Spirits](themes/edo/spirits) | Kitsune | `edo-kitsune` | [dark](themes/edo/spirits/kitsune/screenshot.png) · [light](themes/edo/spirits/kitsune/screenshot-light.png) |
+| [Shrines & Spirits](themes/edo/spirits) | Crane | `edo-crane` | [dark](themes/edo/spirits/crane/screenshot.png) · [light](themes/edo/spirits/crane/screenshot-light.png) |
+| [Shrines & Spirits](themes/edo/spirits) | Bamboo | `edo-bamboo` | [dark](themes/edo/spirits/bamboo/screenshot.png) · [light](themes/edo/spirits/bamboo/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/track/guards/screenshot.png) · [light](themes/gt3rs/track/guards/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/track/lava/screenshot.png) · [light](themes/gt3rs/track/lava/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/track/yellow/screenshot.png) · [light](themes/gt3rs/track/yellow/screenshot-light.png) |
