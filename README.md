@@ -61,7 +61,7 @@ Themes are grouped by subject, and each subject has collections: one scene in se
 <!-- catalog:start -->
 ### [GT3 RS](themes/gt3rs)
 
-The 992 Porsche 911 GT3 RS in seven factory colours: on a night track and sideways in a drift.
+The GT3 RS in seven factory colours: on a night track and sideways in a drift.
 
 #### [GT3 RS](themes/gt3rs/track) &nbsp;<sub>7 themes</sub>
 

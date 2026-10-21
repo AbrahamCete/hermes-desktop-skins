@@ -2,7 +2,7 @@
 
 # GT3 RS
 
-**The 992 Porsche 911 GT3 RS in seven factory colours: on a night track and sideways in a drift.**
+**The GT3 RS in seven factory colours: on a night track and sideways in a drift.**
 
 <sub>2 COLLECTIONS &nbsp;·&nbsp; 14 THEMES &nbsp;·&nbsp; <a href="../../README.md#install">INSTALL</a></sub>
 
