@@ -13,7 +13,7 @@ Every theme has a dark and a light edition and a touch of animation. Install onc
 
 | Dark mode | Light mode |
 |:---:|:---:|
-| ![Hermes Desktop with the GT3 RS Lava Orange theme in dark mode](themes/gt3rs/lava/screenshot.png) | ![Hermes Desktop with the GT3 RS Lava Orange theme in light mode](themes/gt3rs/lava/screenshot-light.png) |
+| ![Hermes Desktop with the GT3 RS Lava Orange theme in dark mode](themes/gt3rs/track/lava/screenshot.png) | ![Hermes Desktop with the GT3 RS Lava Orange theme in light mode](themes/gt3rs/track/lava/screenshot-light.png) |
 
 </div>
 
