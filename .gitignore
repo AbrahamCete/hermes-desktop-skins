@@ -1,0 +1,5 @@
+themes/*/logs/
+themes/*/view/
+__pycache__/
+*.pyc
+.codegraph/
