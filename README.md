@@ -138,4 +138,4 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 
 > **Community project**
 >
-> Hermes Desktop Skins is an independent fan project. It is not affiliated with, endorsed by, or sponsored by Nous Research, the Hermes Agent project, or Porsche AG. Hermes, Hermes Agent, Porsche, 911 and GT3 RS are names and trademarks of their respective owners. The artwork is original fan art and contains no manufacturer logos.
+> Hermes Desktop Skins is a free, independent community project, made for anyone to use, share and enjoy. It is not affiliated with, endorsed by, or sponsored by Nous Research or the Hermes Agent project. Hermes and Hermes Agent are names and trademarks of their respective owners, as are any other names mentioned here. The artwork is original and contains no brand logos.
