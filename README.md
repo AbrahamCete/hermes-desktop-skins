@@ -68,7 +68,8 @@ themes/
         │   ├── hero.png        450×225 · above the wordmark
         │   ├── top.png         160×120 · top of the sidebar
         │   └── bottom.png      160×133 · bottom of the sidebar
-        ├── raw/              the full-resolution source images
+        ├── raw/              the full-resolution source images (colour variants
+        │                     reuse another theme's via "source" in theme.json)
         ├── screenshot.png    the theme applied to Hermes Desktop
         ├── preview.png       a quick layout mock
         └── theme.json        palette, colours and dither settings
