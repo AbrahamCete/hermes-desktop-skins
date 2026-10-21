@@ -11,7 +11,7 @@ Install once and switch themes from the theme picker.
 
 <br /><br />
 
-![Hermes Desktop with the GT3 RS Lava Orange theme](themes/gt3rs-lava/screenshot.png)
+![Hermes Desktop with the GT3 RS Lava Orange theme](themes/gt3rs/lava/screenshot.png)
 
 </div>
 
@@ -28,11 +28,11 @@ You need Hermes Desktop 0.22.2 or later.
 Themes come in collections: one subject, several looks. Click a banner to see every theme of a collection applied to Hermes Desktop.
 
 <!-- catalog:start -->
-### [GT3 RS](collections/gt3rs) &nbsp;<sub>7 themes</sub>
+### [GT3 RS](themes/gt3rs) &nbsp;<sub>7 themes</sub>
 
-<a href="collections/gt3rs"><img src="collections/gt3rs/banner.png" alt="GT3 RS: Guards Red, Lava Orange, Racing Yellow, Python Green, Shark Blue, Ruby Star, GT Silver" /></a>
+<a href="themes/gt3rs"><img src="themes/gt3rs/banner.png" alt="GT3 RS: Guards Red, Lava Orange, Racing Yellow, Python Green, Shark Blue, Ruby Star, GT Silver" /></a>
 
-Seven factory colours of the 992 GT3 RS. Same car, different paint. **[Browse the collection →](collections/gt3rs)**
+Seven factory colours of the 992 GT3 RS. Same car, different paint. **[Browse the collection →](themes/gt3rs)**
 
 <sub>`gt3rs-guards` `gt3rs-lava` `gt3rs-yellow` `gt3rs-python` `gt3rs-shark` `gt3rs-ruby` `gt3rs-silver`</sub>
 
@@ -41,31 +41,37 @@ Seven factory colours of the 992 GT3 RS. Same car, different paint. **[Browse th
 
 | Collection | Theme | Id | Files |
 |---|---|---|---|
-| [GT3 RS](collections/gt3rs) | Guards Red | `gt3rs-guards` | [screenshot](themes/gt3rs-guards/screenshot.png) · [art](themes/gt3rs-guards/art) |
-| [GT3 RS](collections/gt3rs) | Lava Orange | `gt3rs-lava` | [screenshot](themes/gt3rs-lava/screenshot.png) · [art](themes/gt3rs-lava/art) |
-| [GT3 RS](collections/gt3rs) | Racing Yellow | `gt3rs-yellow` | [screenshot](themes/gt3rs-yellow/screenshot.png) · [art](themes/gt3rs-yellow/art) |
-| [GT3 RS](collections/gt3rs) | Python Green | `gt3rs-python` | [screenshot](themes/gt3rs-python/screenshot.png) · [art](themes/gt3rs-python/art) |
-| [GT3 RS](collections/gt3rs) | Shark Blue | `gt3rs-shark` | [screenshot](themes/gt3rs-shark/screenshot.png) · [art](themes/gt3rs-shark/art) |
-| [GT3 RS](collections/gt3rs) | Ruby Star | `gt3rs-ruby` | [screenshot](themes/gt3rs-ruby/screenshot.png) · [art](themes/gt3rs-ruby/art) |
-| [GT3 RS](collections/gt3rs) | GT Silver | `gt3rs-silver` | [screenshot](themes/gt3rs-silver/screenshot.png) · [art](themes/gt3rs-silver/art) |
+| [GT3 RS](themes/gt3rs) | Guards Red | `gt3rs-guards` | [screenshot](themes/gt3rs/guards/screenshot.png) · [art](themes/gt3rs/guards/art) |
+| [GT3 RS](themes/gt3rs) | Lava Orange | `gt3rs-lava` | [screenshot](themes/gt3rs/lava/screenshot.png) · [art](themes/gt3rs/lava/art) |
+| [GT3 RS](themes/gt3rs) | Racing Yellow | `gt3rs-yellow` | [screenshot](themes/gt3rs/yellow/screenshot.png) · [art](themes/gt3rs/yellow/art) |
+| [GT3 RS](themes/gt3rs) | Python Green | `gt3rs-python` | [screenshot](themes/gt3rs/python/screenshot.png) · [art](themes/gt3rs/python/art) |
+| [GT3 RS](themes/gt3rs) | Shark Blue | `gt3rs-shark` | [screenshot](themes/gt3rs/shark/screenshot.png) · [art](themes/gt3rs/shark/art) |
+| [GT3 RS](themes/gt3rs) | Ruby Star | `gt3rs-ruby` | [screenshot](themes/gt3rs/ruby/screenshot.png) · [art](themes/gt3rs/ruby/art) |
+| [GT3 RS](themes/gt3rs) | GT Silver | `gt3rs-silver` | [screenshot](themes/gt3rs/silver/screenshot.png) · [art](themes/gt3rs/silver/art) |
 
 </details>
 <!-- catalog:end -->
 
 ## Download the art
 
-Every theme lives in its own folder under [`themes/`](themes):
+Themes are grouped by collection under [`themes/`](themes), one folder per theme:
 
 ```text
-themes/gt3rs-lava/
-├── art/            the three pixel images, at native size
-│   ├── hero.png      450×225 · above the wordmark
-│   ├── top.png       160×120 · top of the sidebar
-│   └── bottom.png    160×133 · bottom of the sidebar
-├── raw/            the full-resolution source images
-├── screenshot.png  the theme applied to Hermes Desktop
-├── preview.png     a quick layout mock
-└── theme.json      palette, colours and dither settings
+themes/
+└── gt3rs/                  a collection
+    ├── README.md             its gallery
+    ├── banner.png            every theme side by side
+    ├── art-sheet.png         all its pixel art
+    ├── collection.json       title, description, order
+    └── lava/                 a theme (id gt3rs-lava)
+        ├── art/              the three pixel images, at native size
+        │   ├── hero.png        450×225 · above the wordmark
+        │   ├── top.png         160×120 · top of the sidebar
+        │   └── bottom.png      160×133 · bottom of the sidebar
+        ├── raw/              the full-resolution source images
+        ├── screenshot.png    the theme applied to Hermes Desktop
+        ├── preview.png       a quick layout mock
+        └── theme.json        palette, colours and dither settings
 ```
 
 The art is meant to be shown at 2× with nearest-neighbour scaling, which is how the app renders it.
@@ -81,11 +87,11 @@ prompt ──► raw/*.png ──► tools/pixelate.py ──► art/*.png ─�
 | Tool | What it does |
 |---|---|
 | `tools/pixelate.py <theme-dir>` | Crops and downsamples the raw images to each slot and dithers them onto the theme ramp |
-| `tools/recolor.py <base> <name> <label> <body> <shadow> <highlight> [bg]` | Creates a colour variant that reuses the base theme's raw art |
+| `tools/recolor.py <base-dir> <new-dir> <label> <body> <shadow> <highlight> [bg]` | Creates a colour variant that reuses the base theme's raw art |
 | `tools/build.py` | Bundles every theme into `plugin.yaml` + `desktop/plugin.js` |
 | `tools/screenshot.mjs [theme ids…]` | Takes a real Hermes Desktop screenshot of each theme from an isolated, empty profile |
 | `tools/preview.py <theme-dir>` | Renders a quick layout mock without launching the app |
-| `tools/sheet.py <prefix> <out.png>` | Renders the side-by-side art sheet for a family of themes |
+| `tools/sheet.py <collection-dir> <out.png>` | Renders the side-by-side art sheet of a collection |
 | `tools/catalog.py` | Builds every collection's banner, art sheet and gallery page, and the collection index in this README |
 
 Requirements: Python 3 with Pillow, and Node 22 for the screenshots.

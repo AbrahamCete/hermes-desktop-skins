@@ -1,6 +1,7 @@
-themes/*/logs/
-themes/*/view/
+themes/**/logs/
+themes/**/view/
 __pycache__/
 *.pyc
 .codegraph/
 .atl/
+promo/
