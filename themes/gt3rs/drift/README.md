@@ -4,7 +4,7 @@
 
 **The 992 GT3 RS sideways in a cloud of tyre smoke, in seven factory colours.**
 
-<sub>7 THEMES &nbsp;·&nbsp; <a href="../../README.md#install">INSTALL</a> &nbsp;·&nbsp; <a href="../../README.md#collections">ALL COLLECTIONS</a></sub>
+<sub>7 THEMES &nbsp;·&nbsp; <a href="../../../README.md#install">INSTALL</a> &nbsp;·&nbsp; <a href="../../../README.md#collections">ALL COLLECTIONS</a></sub>
 
 <br /><br />
 

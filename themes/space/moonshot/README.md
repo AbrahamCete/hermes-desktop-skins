@@ -4,7 +4,7 @@
 
 **The space age as a 1960s print: the same five missions, drawn again.**
 
-<sub>5 THEMES &nbsp;·&nbsp; <a href="../../README.md#install">INSTALL</a> &nbsp;·&nbsp; <a href="../../README.md#collections">ALL COLLECTIONS</a></sub>
+<sub>5 THEMES &nbsp;·&nbsp; <a href="../../../README.md#install">INSTALL</a> &nbsp;·&nbsp; <a href="../../../README.md#collections">ALL COLLECTIONS</a></sub>
 
 <br /><br />
 

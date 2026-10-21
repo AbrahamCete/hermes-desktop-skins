@@ -1,62 +1,43 @@
 <div align="center">
 
-# Space Race
+# Space
 
-**Five moments of the space age, from the Saturn V to the spacewalk.**
+**The space age in pixels: epic launches and missions, and the same five missions as a 1960s print.**
 
-<sub>5 THEMES &nbsp;·&nbsp; <a href="../../README.md#install">INSTALL</a> &nbsp;·&nbsp; <a href="../../README.md#collections">ALL COLLECTIONS</a></sub>
-
-<br /><br />
-
-![Space Race: every theme side by side](banner.png)
+<sub>2 COLLECTIONS &nbsp;·&nbsp; 10 THEMES &nbsp;·&nbsp; <a href="../../README.md#install">INSTALL</a></sub>
 
 </div>
 
-## Saturn V
+## [Moonshot](moonshot) &nbsp;<sub>5 themes</sub>
 
-`space-saturn` · The moon rocket clearing the tower · [art](saturn/art) · [full-size source](saturn/raw)
+<a href="moonshot"><img src="moonshot/banner.png" alt="Moonshot: Saturn V, Apollo 11, Voyager, Space Shuttle, Spacewalk" /></a>
 
-| Dark mode | Light mode |
-|:---:|:---:|
-| ![Saturn V in dark mode](saturn/screenshot.png) | ![Saturn V in light mode](saturn/screenshot-light.png) |
+The space age as a 1960s print: the same five missions, drawn again. **[Browse the collection →](moonshot)**
 
-## Apollo 11
+<sub>`moonshot-saturn` `moonshot-apollo` `moonshot-voyager` `moonshot-shuttle` `moonshot-eva`</sub>
 
-`space-apollo` · Footprints on the Sea of Tranquility · [art](apollo/art) · [full-size source](apollo/raw)
+## [Space Race](race) &nbsp;<sub>5 themes</sub>
 
-| Dark mode | Light mode |
-|:---:|:---:|
-| ![Apollo 11 in dark mode](apollo/screenshot.png) | ![Apollo 11 in light mode](apollo/screenshot-light.png) |
+<a href="race"><img src="race/banner.png" alt="Space Race: Saturn V, Apollo 11, Voyager, Space Shuttle, Spacewalk" /></a>
 
-## Voyager
+Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the collection →](race)**
 
-`space-voyager` · Golden record, outbound since 1977 · [art](voyager/art) · [full-size source](voyager/raw)
-
-| Dark mode | Light mode |
-|:---:|:---:|
-| ![Voyager in dark mode](voyager/screenshot.png) | ![Voyager in light mode](voyager/screenshot-light.png) |
-
-## Space Shuttle
-
-`space-shuttle` · Payload bay open over the blue marble · [art](shuttle/art) · [full-size source](shuttle/raw)
-
-| Dark mode | Light mode |
-|:---:|:---:|
-| ![Space Shuttle in dark mode](shuttle/screenshot.png) | ![Space Shuttle in light mode](shuttle/screenshot-light.png) |
-
-## Spacewalk
-
-`space-eva` · Tethered, floating, two hundred miles up · [art](eva/art) · [full-size source](eva/raw)
-
-| Dark mode | Light mode |
-|:---:|:---:|
-| ![Spacewalk in dark mode](eva/screenshot.png) | ![Spacewalk in light mode](eva/screenshot-light.png) |
+<sub>`space-saturn` `space-apollo` `space-voyager` `space-shuttle` `space-eva`</sub>
 
 <details>
-<summary>All the pixel art, side by side</summary>
+<summary><b>Every theme</b> (10)</summary>
 
-<br />
-
-![The hero, top and bottom art of every Space Race theme](art-sheet.png)
+| Collection | Theme | Id | Files |
+|---|---|---|---|
+| [Moonshot](moonshot) | Saturn V | `moonshot-saturn` | [dark](moonshot/saturn/screenshot.png) · [light](moonshot/saturn/screenshot-light.png) · [art](moonshot/saturn/art) |
+| [Moonshot](moonshot) | Apollo 11 | `moonshot-apollo` | [dark](moonshot/apollo/screenshot.png) · [light](moonshot/apollo/screenshot-light.png) · [art](moonshot/apollo/art) |
+| [Moonshot](moonshot) | Voyager | `moonshot-voyager` | [dark](moonshot/voyager/screenshot.png) · [light](moonshot/voyager/screenshot-light.png) · [art](moonshot/voyager/art) |
+| [Moonshot](moonshot) | Space Shuttle | `moonshot-shuttle` | [dark](moonshot/shuttle/screenshot.png) · [light](moonshot/shuttle/screenshot-light.png) · [art](moonshot/shuttle/art) |
+| [Moonshot](moonshot) | Spacewalk | `moonshot-eva` | [dark](moonshot/eva/screenshot.png) · [light](moonshot/eva/screenshot-light.png) · [art](moonshot/eva/art) |
+| [Space Race](race) | Saturn V | `space-saturn` | [dark](race/saturn/screenshot.png) · [light](race/saturn/screenshot-light.png) · [art](race/saturn/art) |
+| [Space Race](race) | Apollo 11 | `space-apollo` | [dark](race/apollo/screenshot.png) · [light](race/apollo/screenshot-light.png) · [art](race/apollo/art) |
+| [Space Race](race) | Voyager | `space-voyager` | [dark](race/voyager/screenshot.png) · [light](race/voyager/screenshot-light.png) · [art](race/voyager/art) |
+| [Space Race](race) | Space Shuttle | `space-shuttle` | [dark](race/shuttle/screenshot.png) · [light](race/shuttle/screenshot-light.png) · [art](race/shuttle/art) |
+| [Space Race](race) | Spacewalk | `space-eva` | [dark](race/eva/screenshot.png) · [light](race/eva/screenshot-light.png) · [art](race/eva/art) |
 
 </details>
