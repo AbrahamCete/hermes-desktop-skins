@@ -7,7 +7,7 @@
 Dithered pixel art for the desktop app: a wide hero above the wordmark, two sidebar panels and a faint backdrop behind your conversations.
 Every theme has a dark and a light edition and a touch of animation. Install once and switch from the theme picker.
 
-<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 4 COLLECTIONS &nbsp;·&nbsp; 24 THEMES</sub>
+<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 5 COLLECTIONS &nbsp;·&nbsp; 29 THEMES</sub>
 
 <br /><br />
 
@@ -59,6 +59,18 @@ Restart Hermes Desktop after updating to load the new themes.
 Themes are grouped by subject, and each subject has collections: one scene in several looks. Click a banner to see every theme of a collection applied to Hermes Desktop.
 
 <!-- catalog:start -->
+### [Edo](themes/edo)
+
+Japan's Edo period as woodblock prints: night scenes in dark mode, washi paper in light mode.
+
+#### [Floating World](themes/edo/floating-world) &nbsp;<sub>5 themes</sub>
+
+<a href="themes/edo/floating-world"><img src="themes/edo/floating-world/banner.png" alt="Floating World: Great Wave, Mount Fuji, Ronin, Koi, Sakura" /></a>
+
+Ukiyo-e in pixels: the great wave, Fuji, a ronin in the rain, koi and sakura. **[Browse the collection →](themes/edo/floating-world)**
+
+<sub>`edo-wave` `edo-fuji` `edo-ronin` `edo-koi` `edo-sakura`</sub>
+
 ### [GT3 RS](themes/gt3rs)
 
 The GT3 RS in seven factory colours: on a night track and sideways in a drift.
@@ -100,10 +112,15 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 <sub>`space-saturn` `space-apollo` `space-voyager` `space-shuttle` `space-eva`</sub>
 
 <details>
-<summary><b>Every theme</b> (24)</summary>
+<summary><b>Every theme</b> (29)</summary>
 
 | Collection | Theme | Id | Screenshots |
 |---|---|---|---|
+| [Floating World](themes/edo/floating-world) | Great Wave | `edo-wave` | [dark](themes/edo/floating-world/wave/screenshot.png) · [light](themes/edo/floating-world/wave/screenshot-light.png) |
+| [Floating World](themes/edo/floating-world) | Mount Fuji | `edo-fuji` | [dark](themes/edo/floating-world/fuji/screenshot.png) · [light](themes/edo/floating-world/fuji/screenshot-light.png) |
+| [Floating World](themes/edo/floating-world) | Ronin | `edo-ronin` | [dark](themes/edo/floating-world/ronin/screenshot.png) · [light](themes/edo/floating-world/ronin/screenshot-light.png) |
+| [Floating World](themes/edo/floating-world) | Koi | `edo-koi` | [dark](themes/edo/floating-world/koi/screenshot.png) · [light](themes/edo/floating-world/koi/screenshot-light.png) |
+| [Floating World](themes/edo/floating-world) | Sakura | `edo-sakura` | [dark](themes/edo/floating-world/sakura/screenshot.png) · [light](themes/edo/floating-world/sakura/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/track/guards/screenshot.png) · [light](themes/gt3rs/track/guards/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/track/lava/screenshot.png) · [light](themes/gt3rs/track/lava/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/track/yellow/screenshot.png) · [light](themes/gt3rs/track/yellow/screenshot-light.png) |
