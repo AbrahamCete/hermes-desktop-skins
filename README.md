@@ -4,14 +4,16 @@
 
 **Pixel-art wallpaper themes for Hermes Desktop.**
 
-Dithered, hand-tuned pixel art for the three art slots of the desktop app: the hero above the wordmark and the two sidebar panels.
-Install once and switch themes from the theme picker.
+Dithered pixel art for the desktop app: a wide hero above the wordmark, two sidebar panels and a faint backdrop behind your conversations.
+Every theme has a dark and a light edition and a touch of animation. Install once and switch from the theme picker.
 
 <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 2 COLLECTIONS &nbsp;·&nbsp; 12 THEMES</sub>
 
 <br /><br />
 
-![Hermes Desktop with the GT3 RS Lava Orange theme](themes/gt3rs/lava/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Hermes Desktop with the GT3 RS Lava Orange theme in dark mode](themes/gt3rs/lava/screenshot.png) | ![Hermes Desktop with the GT3 RS Lava Orange theme in light mode](themes/gt3rs/lava/screenshot-light.png) |
 
 </div>
 
@@ -21,7 +23,9 @@ You need Hermes Desktop 0.22.2 or later.
 
 1. In Hermes Desktop, open **Capabilities → Plugins**, click **Install from Git**, paste `https://github.com/AbrahamCete/hermes-desktop-skins` and install. From a terminal: `hermes plugins install AbrahamCete/hermes-desktop-skins`.
 2. Flip the plugin's **Desktop** switch on. Desktop plugins installed from a package start turned off.
-3. Pick a theme in the theme picker.
+3. Pick a theme in the theme picker. Hermes' light/dark switch picks the matching edition.
+
+Animations (a light sweep over the cars, twinkling stars and drifting astronauts in space) stop when your system asks for reduced motion.
 
 ## Collections
 
@@ -49,18 +53,18 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 
 | Collection | Theme | Id | Files |
 |---|---|---|---|
-| [GT3 RS](themes/gt3rs) | Guards Red | `gt3rs-guards` | [screenshot](themes/gt3rs/guards/screenshot.png) · [art](themes/gt3rs/guards/art) |
-| [GT3 RS](themes/gt3rs) | Lava Orange | `gt3rs-lava` | [screenshot](themes/gt3rs/lava/screenshot.png) · [art](themes/gt3rs/lava/art) |
-| [GT3 RS](themes/gt3rs) | Racing Yellow | `gt3rs-yellow` | [screenshot](themes/gt3rs/yellow/screenshot.png) · [art](themes/gt3rs/yellow/art) |
-| [GT3 RS](themes/gt3rs) | Python Green | `gt3rs-python` | [screenshot](themes/gt3rs/python/screenshot.png) · [art](themes/gt3rs/python/art) |
-| [GT3 RS](themes/gt3rs) | Shark Blue | `gt3rs-shark` | [screenshot](themes/gt3rs/shark/screenshot.png) · [art](themes/gt3rs/shark/art) |
-| [GT3 RS](themes/gt3rs) | Ruby Star | `gt3rs-ruby` | [screenshot](themes/gt3rs/ruby/screenshot.png) · [art](themes/gt3rs/ruby/art) |
-| [GT3 RS](themes/gt3rs) | GT Silver | `gt3rs-silver` | [screenshot](themes/gt3rs/silver/screenshot.png) · [art](themes/gt3rs/silver/art) |
-| [Space Race](themes/space) | Saturn V | `space-saturn` | [screenshot](themes/space/saturn/screenshot.png) · [art](themes/space/saturn/art) |
-| [Space Race](themes/space) | Apollo 11 | `space-apollo` | [screenshot](themes/space/apollo/screenshot.png) · [art](themes/space/apollo/art) |
-| [Space Race](themes/space) | Voyager | `space-voyager` | [screenshot](themes/space/voyager/screenshot.png) · [art](themes/space/voyager/art) |
-| [Space Race](themes/space) | Space Shuttle | `space-shuttle` | [screenshot](themes/space/shuttle/screenshot.png) · [art](themes/space/shuttle/art) |
-| [Space Race](themes/space) | Spacewalk | `space-eva` | [screenshot](themes/space/eva/screenshot.png) · [art](themes/space/eva/art) |
+| [GT3 RS](themes/gt3rs) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/guards/screenshot.png) · [light](themes/gt3rs/guards/screenshot-light.png) · [art](themes/gt3rs/guards/art) |
+| [GT3 RS](themes/gt3rs) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/lava/screenshot.png) · [light](themes/gt3rs/lava/screenshot-light.png) · [art](themes/gt3rs/lava/art) |
+| [GT3 RS](themes/gt3rs) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/yellow/screenshot.png) · [light](themes/gt3rs/yellow/screenshot-light.png) · [art](themes/gt3rs/yellow/art) |
+| [GT3 RS](themes/gt3rs) | Python Green | `gt3rs-python` | [dark](themes/gt3rs/python/screenshot.png) · [light](themes/gt3rs/python/screenshot-light.png) · [art](themes/gt3rs/python/art) |
+| [GT3 RS](themes/gt3rs) | Shark Blue | `gt3rs-shark` | [dark](themes/gt3rs/shark/screenshot.png) · [light](themes/gt3rs/shark/screenshot-light.png) · [art](themes/gt3rs/shark/art) |
+| [GT3 RS](themes/gt3rs) | Ruby Star | `gt3rs-ruby` | [dark](themes/gt3rs/ruby/screenshot.png) · [light](themes/gt3rs/ruby/screenshot-light.png) · [art](themes/gt3rs/ruby/art) |
+| [GT3 RS](themes/gt3rs) | GT Silver | `gt3rs-silver` | [dark](themes/gt3rs/silver/screenshot.png) · [light](themes/gt3rs/silver/screenshot-light.png) · [art](themes/gt3rs/silver/art) |
+| [Space Race](themes/space) | Saturn V | `space-saturn` | [dark](themes/space/saturn/screenshot.png) · [light](themes/space/saturn/screenshot-light.png) · [art](themes/space/saturn/art) |
+| [Space Race](themes/space) | Apollo 11 | `space-apollo` | [dark](themes/space/apollo/screenshot.png) · [light](themes/space/apollo/screenshot-light.png) · [art](themes/space/apollo/art) |
+| [Space Race](themes/space) | Voyager | `space-voyager` | [dark](themes/space/voyager/screenshot.png) · [light](themes/space/voyager/screenshot-light.png) · [art](themes/space/voyager/art) |
+| [Space Race](themes/space) | Space Shuttle | `space-shuttle` | [dark](themes/space/shuttle/screenshot.png) · [light](themes/space/shuttle/screenshot-light.png) · [art](themes/space/shuttle/art) |
+| [Space Race](themes/space) | Spacewalk | `space-eva` | [dark](themes/space/eva/screenshot.png) · [light](themes/space/eva/screenshot-light.png) · [art](themes/space/eva/art) |
 
 </details>
 <!-- catalog:end -->
@@ -77,15 +81,18 @@ themes/
     ├── art-sheet.png         all its pixel art
     ├── collection.json       title, description, order
     └── lava/                 a theme (id gt3rs-lava)
-        ├── art/              the three pixel images, at native size
-        │   ├── hero.png        450×225 · above the wordmark
+        ├── art/              the pixel images at native size, transparent background
+        │   ├── hero.png        600×225 · above the wordmark
         │   ├── top.png         160×120 · top of the sidebar
-        │   └── bottom.png      160×133 · bottom of the sidebar
+        │   ├── bottom.png      160×133 · bottom of the sidebar
+        │   └── *-light.png     the same three for the light edition
         ├── raw/              the full-resolution source images (colour variants
         │                     reuse another theme's via "source" in theme.json)
-        ├── screenshot.png    the theme applied to Hermes Desktop
+        ├── screenshot.png    the theme applied to Hermes Desktop (dark mode)
+        ├── screenshot-light.png                      (light mode)
         ├── preview.png       a quick layout mock
-        └── theme.json        palette, colours and dither settings
+        ├── prompts.txt       the image prompts, dark and light
+        └── theme.json        palettes, colours, dither settings and animation
 ```
 
 The art is meant to be shown at 2× with nearest-neighbour scaling, which is how the app renders it.
@@ -106,7 +113,7 @@ prompts.txt ──► raw/*.png ──► art/*.png ──► desktop/plugin.js
 | `tools/pixelate.py <theme-dir>` | Crops and downsamples the raw images to each slot and dithers them onto the theme ramp |
 | `tools/recolor.py <base-dir> <new-dir> <label> <body> <shadow> <highlight> [bg]` | Creates a colour variant that reuses the base theme's raw art |
 | `tools/build.py` | Bundles every theme into `plugin.yaml` + `desktop/plugin.js` |
-| `tools/screenshot.mjs [theme ids…]` | Takes a real Hermes Desktop screenshot of each theme from an isolated, empty profile |
+| `tools/screenshot.mjs [--mode light] [theme ids…]` | Takes a real Hermes Desktop screenshot of each theme from an isolated, empty profile |
 | `tools/preview.py <theme-dir>` | Renders a quick layout mock without launching the app |
 | `tools/sheet.py <collection-dir> <out.png>` | Renders the side-by-side art sheet of a collection |
 | `tools/catalog.py` | Builds every collection's banner, art sheet and gallery page, and the collection index in this README |

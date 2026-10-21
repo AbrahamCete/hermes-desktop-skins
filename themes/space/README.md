@@ -16,31 +16,41 @@
 
 `space-saturn` · The moon rocket clearing the tower · [art](saturn/art) · [full-size source](saturn/raw)
 
-![Saturn V applied to Hermes Desktop](saturn/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Saturn V in dark mode](saturn/screenshot.png) | ![Saturn V in light mode](saturn/screenshot-light.png) |
 
 ## Apollo 11
 
 `space-apollo` · Footprints on the Sea of Tranquility · [art](apollo/art) · [full-size source](apollo/raw)
 
-![Apollo 11 applied to Hermes Desktop](apollo/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Apollo 11 in dark mode](apollo/screenshot.png) | ![Apollo 11 in light mode](apollo/screenshot-light.png) |
 
 ## Voyager
 
 `space-voyager` · Golden record, outbound since 1977 · [art](voyager/art) · [full-size source](voyager/raw)
 
-![Voyager applied to Hermes Desktop](voyager/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Voyager in dark mode](voyager/screenshot.png) | ![Voyager in light mode](voyager/screenshot-light.png) |
 
 ## Space Shuttle
 
 `space-shuttle` · Payload bay open over the blue marble · [art](shuttle/art) · [full-size source](shuttle/raw)
 
-![Space Shuttle applied to Hermes Desktop](shuttle/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Space Shuttle in dark mode](shuttle/screenshot.png) | ![Space Shuttle in light mode](shuttle/screenshot-light.png) |
 
 ## Spacewalk
 
 `space-eva` · Tethered, floating, two hundred miles up · [art](eva/art) · [full-size source](eva/raw)
 
-![Spacewalk applied to Hermes Desktop](eva/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Spacewalk in dark mode](eva/screenshot.png) | ![Spacewalk in light mode](eva/screenshot-light.png) |
 
 <details>
 <summary>All the pixel art, side by side</summary>
