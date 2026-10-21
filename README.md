@@ -19,13 +19,40 @@ Every theme has a dark and a light edition and a touch of animation. Install onc
 
 ## Install
 
-You need Hermes Desktop 0.22.2 or later.
+You need **Hermes Desktop 0.22.2 or later**.
 
-1. In Hermes Desktop, open **Capabilities → Plugins**, click **Install from Git**, paste `https://github.com/AbrahamCete/hermes-desktop-skins` and install. From a terminal: `hermes plugins install AbrahamCete/hermes-desktop-skins`.
-2. Flip the plugin's **Desktop** switch on. Desktop plugins installed from a package start turned off.
-3. Pick a theme in the theme picker. Hermes' light/dark switch picks the matching edition.
+### 1. Add the plugin
+
+**From the app** (no terminal needed): open **Capabilities → Plugins**, click **Install from Git**, paste this address, click **Review repository** and install:
+
+```text
+https://github.com/AbrahamCete/hermes-desktop-skins
+```
+
+**From a terminal:**
+
+```sh
+hermes plugins install AbrahamCete/hermes-desktop-skins
+```
+
+### 2. Turn it on
+
+In **Capabilities → Plugins**, find **hermes-desktop-skins** and flip its **Desktop** switch on. Desktop plugins installed from a package start turned off, and this is the step people miss.
+
+### 3. Pick a theme
+
+Open **Settings → Appearance** and choose a theme, for example **GT3 RS Lava Orange** or **Moonshot · Spacewalk**. Switch between **light** and **dark** there too: every theme has both editions of its scene.
 
 Animations (a light sweep over the cars, twinkling stars and drifting astronauts in space) stop when your system asks for reduced motion.
+
+### Update or remove
+
+```sh
+hermes plugins update hermes-desktop-skins   # get new themes
+hermes plugins remove hermes-desktop-skins   # uninstall
+```
+
+Restart Hermes Desktop after updating to load the new themes.
 
 ## Collections
 
@@ -113,53 +140,24 @@ Themes live under [`themes/`](themes): a folder per subject, a folder per collec
 themes/
 ├── gt3rs/                  a subject: GT3 RS
 │   ├── README.md             its collections
-│   ├── group.json            title, description
 │   ├── drift/                another collection (GT3 RS Drift)
 │   └── track/                a collection (GT3 RS, the night track)
 │       ├── README.md           its gallery
 │       ├── banner.png          every theme side by side
 │       ├── art-sheet.png       all its pixel art
-│       ├── collection.json     title, description, order
 │       └── lava/               a theme (id gt3rs-lava)
 │           ├── art/              the pixel images at native size, transparent background
 │           │   ├── hero.png        600×225 · above the wordmark
 │           │   ├── top.png         160×120 · top of the sidebar
 │           │   ├── bottom.png      160×133 · bottom of the sidebar
 │           │   └── *-light.png     the same three for the light edition
-│           ├── raw/              the full-resolution source images (colour variants
-│           │                     reuse another theme's via "source" in theme.json)
+│           ├── raw/              the full-resolution images
 │           ├── screenshot.png    the theme applied to Hermes Desktop (dark mode)
-│           ├── screenshot-light.png                      (light mode)
-│           ├── preview.png       a quick layout mock
-│           ├── prompts.txt       the image prompts, dark and light
-│           └── theme.json        palettes, colours, dither settings and animation
+│           └── screenshot-light.png                      (light mode)
 └── space/                  a subject: Space, with race/ and moonshot/
 ```
 
 The art is meant to be shown at 2× with nearest-neighbour scaling, which is how the app renders it.
-
-## How the themes are made
-
-```text
-prompts.txt ──► raw/*.png ──► art/*.png ──► desktop/plugin.js
-        generate.py      pixelate.py      build.py
-        (Codex image     (crop, resize,   (embeds every theme
-         generation)      4-colour         into one plugin)
-                          ordered dither)
-```
-
-| Tool | What it does |
-|---|---|
-| `tools/generate.py <theme-dir>…` | Renders each theme's `prompts.txt` into `raw/` with Codex image generation, in parallel |
-| `tools/pixelate.py <theme-dir>` | Crops and downsamples the raw images to each slot and dithers them onto the theme ramp |
-| `tools/recolor.py <base-dir> <new-dir> <label> <body> <shadow> <highlight> [bg]` | Creates a colour variant that reuses the base theme's raw art |
-| `tools/build.py` | Bundles every theme into `plugin.yaml` + `desktop/plugin.js` |
-| `tools/screenshot.mjs [--mode light] [theme ids…]` | Takes a real Hermes Desktop screenshot of each theme from an isolated, empty profile |
-| `tools/preview.py <theme-dir>` | Renders a quick layout mock without launching the app |
-| `tools/sheet.py <collection-dir> <out.png>` | Renders the side-by-side art sheet of a collection |
-| `tools/catalog.py` | Builds every collection's banner, art sheet and gallery page, and the collection index in this README |
-
-Requirements: Python 3 with Pillow, and Node 22 for the screenshots.
 
 ## License
 
