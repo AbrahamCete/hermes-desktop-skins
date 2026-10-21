@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hermes Skin
+# Hermes Desktop Skins
 
 **Pixel-art wallpaper themes for Hermes Desktop.**
 
@@ -19,7 +19,7 @@ Install once and switch themes from the theme picker.
 
 You need Hermes Desktop 0.22.2 or later.
 
-1. In Hermes Desktop, open **Capabilities → Plugins**, click **Install from Git**, paste `https://github.com/AbrahamCete/hermes-skin` and install. From a terminal: `hermes plugins install AbrahamCete/hermes-skin`.
+1. In Hermes Desktop, open **Capabilities → Plugins**, click **Install from Git**, paste `https://github.com/AbrahamCete/hermes-desktop-skins` and install. From a terminal: `hermes plugins install AbrahamCete/hermes-desktop-skins`.
 2. Flip the plugin's **Desktop** switch on. Desktop plugins installed from a package start turned off.
 3. Pick a theme in the theme picker.
 
@@ -88,4 +88,4 @@ Requirements: Python 3 with Pillow, and Node 22 for the screenshots.
 
 > **Community project**
 >
-> Hermes Skin is an independent fan project. It is not affiliated with, endorsed by, or sponsored by Nous Research, the Hermes Agent project, or Porsche AG. Hermes, Hermes Agent, Porsche, 911 and GT3 RS are names and trademarks of their respective owners. The artwork is original fan art and contains no manufacturer logos.
+> Hermes Desktop Skins is an independent fan project. It is not affiliated with, endorsed by, or sponsored by Nous Research, the Hermes Agent project, or Porsche AG. Hermes, Hermes Agent, Porsche, 911 and GT3 RS are names and trademarks of their respective owners. The artwork is original fan art and contains no manufacturer logos.

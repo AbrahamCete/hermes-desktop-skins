@@ -697,8 +697,8 @@ const desktopTheme = THEME => ({
 })
 
 export default {
-  id: 'hermes-skin',
-  name: 'Hermes Skin',
+  id: 'hermes-desktop-skins',
+  name: 'Hermes Desktop Skins',
   register(ctx) {
     ctx.registerMany(THEMES.map(THEME => ({ id: THEME.name, area: THEMES_AREA, data: desktopTheme(THEME) })))
   }

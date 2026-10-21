@@ -3,3 +3,4 @@ themes/*/view/
 __pycache__/
 *.pyc
 .codegraph/
+.atl/
