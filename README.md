@@ -134,7 +134,7 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 
 ## License
 
-[MIT](LICENSE). The layout CSS is adapted from [Hermes Pantheon](https://github.com/Adolanium/hermes-pantheon) (MIT).
+[MIT](LICENSE).
 
 > **Community project**
 >
