@@ -7,7 +7,7 @@
 Dithered, hand-tuned pixel art for the three art slots of the desktop app: the hero above the wordmark and the two sidebar panels.
 Install once and switch themes from the theme picker.
 
-<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 1 COLLECTION &nbsp;·&nbsp; 7 THEMES</sub>
+<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 2 COLLECTIONS &nbsp;·&nbsp; 12 THEMES</sub>
 
 <br /><br />
 
@@ -36,8 +36,16 @@ Seven factory colours of the 992 GT3 RS. Same car, different paint. **[Browse th
 
 <sub>`gt3rs-guards` `gt3rs-lava` `gt3rs-yellow` `gt3rs-python` `gt3rs-shark` `gt3rs-ruby` `gt3rs-silver`</sub>
 
+### [Space Race](themes/space) &nbsp;<sub>5 themes</sub>
+
+<a href="themes/space"><img src="themes/space/banner.png" alt="Space Race: Saturn V, Apollo 11, Voyager, Space Shuttle, Spacewalk" /></a>
+
+Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the collection →](themes/space)**
+
+<sub>`space-saturn` `space-apollo` `space-voyager` `space-shuttle` `space-eva`</sub>
+
 <details>
-<summary><b>Every theme</b> (7)</summary>
+<summary><b>Every theme</b> (12)</summary>
 
 | Collection | Theme | Id | Files |
 |---|---|---|---|
@@ -48,6 +56,11 @@ Seven factory colours of the 992 GT3 RS. Same car, different paint. **[Browse th
 | [GT3 RS](themes/gt3rs) | Shark Blue | `gt3rs-shark` | [screenshot](themes/gt3rs/shark/screenshot.png) · [art](themes/gt3rs/shark/art) |
 | [GT3 RS](themes/gt3rs) | Ruby Star | `gt3rs-ruby` | [screenshot](themes/gt3rs/ruby/screenshot.png) · [art](themes/gt3rs/ruby/art) |
 | [GT3 RS](themes/gt3rs) | GT Silver | `gt3rs-silver` | [screenshot](themes/gt3rs/silver/screenshot.png) · [art](themes/gt3rs/silver/art) |
+| [Space Race](themes/space) | Saturn V | `space-saturn` | [screenshot](themes/space/saturn/screenshot.png) · [art](themes/space/saturn/art) |
+| [Space Race](themes/space) | Apollo 11 | `space-apollo` | [screenshot](themes/space/apollo/screenshot.png) · [art](themes/space/apollo/art) |
+| [Space Race](themes/space) | Voyager | `space-voyager` | [screenshot](themes/space/voyager/screenshot.png) · [art](themes/space/voyager/art) |
+| [Space Race](themes/space) | Space Shuttle | `space-shuttle` | [screenshot](themes/space/shuttle/screenshot.png) · [art](themes/space/shuttle/art) |
+| [Space Race](themes/space) | Spacewalk | `space-eva` | [screenshot](themes/space/eva/screenshot.png) · [art](themes/space/eva/art) |
 
 </details>
 <!-- catalog:end -->
@@ -80,13 +93,16 @@ The art is meant to be shown at 2× with nearest-neighbour scaling, which is how
 ## How the themes are made
 
 ```text
-prompt ──► raw/*.png ──► tools/pixelate.py ──► art/*.png ──► tools/build.py ──► desktop/plugin.js
-            (image model)   crop, resize, 4-colour            embeds every theme
-                            ordered dither                    into one plugin
+prompts.txt ──► raw/*.png ──► art/*.png ──► desktop/plugin.js
+        generate.py      pixelate.py      build.py
+        (Codex image     (crop, resize,   (embeds every theme
+         generation)      4-colour         into one plugin)
+                          ordered dither)
 ```
 
 | Tool | What it does |
 |---|---|
+| `tools/generate.py <theme-dir>…` | Renders each theme's `prompts.txt` into `raw/` with Codex image generation, in parallel |
 | `tools/pixelate.py <theme-dir>` | Crops and downsamples the raw images to each slot and dithers them onto the theme ramp |
 | `tools/recolor.py <base-dir> <new-dir> <label> <body> <shadow> <highlight> [bg]` | Creates a colour variant that reuses the base theme's raw art |
 | `tools/build.py` | Bundles every theme into `plugin.yaml` + `desktop/plugin.js` |
