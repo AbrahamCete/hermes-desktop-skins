@@ -14,7 +14,7 @@
 
 ## Guards Red
 
-`gt3rs-guards` · GT3 RS Guards Red, dithered pixels · [art](guards/art) · [full-size source](lava/raw)
+`gt3rs-guards` · GT3 RS Guards Red, dithered pixels
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -22,7 +22,7 @@
 
 ## Lava Orange
 
-`gt3rs-lava` · Lava orange track weapon in dithered pixels · [art](lava/art) · [full-size source](lava/raw)
+`gt3rs-lava` · Lava orange track weapon in dithered pixels
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -30,7 +30,7 @@
 
 ## Racing Yellow
 
-`gt3rs-yellow` · GT3 RS Racing Yellow, dithered pixels · [art](yellow/art) · [full-size source](lava/raw)
+`gt3rs-yellow` · GT3 RS Racing Yellow, dithered pixels
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -38,7 +38,7 @@
 
 ## Python Green
 
-`gt3rs-python` · GT3 RS Python Green, dithered pixels · [art](python/art) · [full-size source](lava/raw)
+`gt3rs-python` · GT3 RS Python Green, dithered pixels
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -46,7 +46,7 @@
 
 ## Shark Blue
 
-`gt3rs-shark` · GT3 RS Shark Blue, dithered pixels · [art](shark/art) · [full-size source](lava/raw)
+`gt3rs-shark` · GT3 RS Shark Blue, dithered pixels
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -54,7 +54,7 @@
 
 ## Ruby Star
 
-`gt3rs-ruby` · GT3 RS Ruby Star, dithered pixels · [art](ruby/art) · [full-size source](lava/raw)
+`gt3rs-ruby` · GT3 RS Ruby Star, dithered pixels
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -62,17 +62,8 @@
 
 ## GT Silver
 
-`gt3rs-silver` · GT3 RS GT Silver, dithered pixels · [art](silver/art) · [full-size source](lava/raw)
+`gt3rs-silver` · GT3 RS GT Silver, dithered pixels
 
 | Dark mode | Light mode |
 |:---:|:---:|
 | ![GT3 RS GT Silver in dark mode](silver/screenshot.png) | ![GT3 RS GT Silver in light mode](silver/screenshot-light.png) |
-
-<details>
-<summary>All the pixel art, side by side</summary>
-
-<br />
-
-![The hero, top and bottom art of every GT3 RS theme](art-sheet.png)
-
-</details>

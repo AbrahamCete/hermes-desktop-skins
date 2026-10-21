@@ -14,7 +14,7 @@
 
 ## Saturn V
 
-`moonshot-saturn` · The moon rocket clearing the tower · [art](saturn/art) · [full-size source](saturn/raw)
+`moonshot-saturn` · The moon rocket clearing the tower
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -22,7 +22,7 @@
 
 ## Apollo 11
 
-`moonshot-apollo` · Footprints on the Sea of Tranquility · [art](apollo/art) · [full-size source](apollo/raw)
+`moonshot-apollo` · Footprints on the Sea of Tranquility
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -30,7 +30,7 @@
 
 ## Voyager
 
-`moonshot-voyager` · Golden record, outbound since 1977 · [art](voyager/art) · [full-size source](voyager/raw)
+`moonshot-voyager` · Golden record, outbound since 1977
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -38,7 +38,7 @@
 
 ## Space Shuttle
 
-`moonshot-shuttle` · Payload bay open over the blue marble · [art](shuttle/art) · [full-size source](shuttle/raw)
+`moonshot-shuttle` · Payload bay open over the blue marble
 
 | Dark mode | Light mode |
 |:---:|:---:|
@@ -46,17 +46,8 @@
 
 ## Spacewalk
 
-`moonshot-eva` · Tethered, floating, two hundred miles up · [art](eva/art) · [full-size source](eva/raw)
+`moonshot-eva` · Tethered, floating, two hundred miles up
 
 | Dark mode | Light mode |
 |:---:|:---:|
 | ![Moonshot · Spacewalk in dark mode](eva/screenshot.png) | ![Moonshot · Spacewalk in light mode](eva/screenshot-light.png) |
-
-<details>
-<summary>All the pixel art, side by side</summary>
-
-<br />
-
-![The hero, top and bottom art of every Moonshot theme](art-sheet.png)
-
-</details>

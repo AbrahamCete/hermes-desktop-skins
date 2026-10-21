@@ -102,62 +102,35 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 <details>
 <summary><b>Every theme</b> (24)</summary>
 
-| Collection | Theme | Id | Files |
+| Collection | Theme | Id | Screenshots |
 |---|---|---|---|
-| [GT3 RS](themes/gt3rs/track) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/track/guards/screenshot.png) · [light](themes/gt3rs/track/guards/screenshot-light.png) · [art](themes/gt3rs/track/guards/art) |
-| [GT3 RS](themes/gt3rs/track) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/track/lava/screenshot.png) · [light](themes/gt3rs/track/lava/screenshot-light.png) · [art](themes/gt3rs/track/lava/art) |
-| [GT3 RS](themes/gt3rs/track) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/track/yellow/screenshot.png) · [light](themes/gt3rs/track/yellow/screenshot-light.png) · [art](themes/gt3rs/track/yellow/art) |
-| [GT3 RS](themes/gt3rs/track) | Python Green | `gt3rs-python` | [dark](themes/gt3rs/track/python/screenshot.png) · [light](themes/gt3rs/track/python/screenshot-light.png) · [art](themes/gt3rs/track/python/art) |
-| [GT3 RS](themes/gt3rs/track) | Shark Blue | `gt3rs-shark` | [dark](themes/gt3rs/track/shark/screenshot.png) · [light](themes/gt3rs/track/shark/screenshot-light.png) · [art](themes/gt3rs/track/shark/art) |
-| [GT3 RS](themes/gt3rs/track) | Ruby Star | `gt3rs-ruby` | [dark](themes/gt3rs/track/ruby/screenshot.png) · [light](themes/gt3rs/track/ruby/screenshot-light.png) · [art](themes/gt3rs/track/ruby/art) |
-| [GT3 RS](themes/gt3rs/track) | GT Silver | `gt3rs-silver` | [dark](themes/gt3rs/track/silver/screenshot.png) · [light](themes/gt3rs/track/silver/screenshot-light.png) · [art](themes/gt3rs/track/silver/art) |
-| [GT3 RS Drift](themes/gt3rs/drift) | Guards Red | `drift-guards` | [dark](themes/gt3rs/drift/guards/screenshot.png) · [light](themes/gt3rs/drift/guards/screenshot-light.png) · [art](themes/gt3rs/drift/guards/art) |
-| [GT3 RS Drift](themes/gt3rs/drift) | Lava Orange | `drift-lava` | [dark](themes/gt3rs/drift/lava/screenshot.png) · [light](themes/gt3rs/drift/lava/screenshot-light.png) · [art](themes/gt3rs/drift/lava/art) |
-| [GT3 RS Drift](themes/gt3rs/drift) | Racing Yellow | `drift-yellow` | [dark](themes/gt3rs/drift/yellow/screenshot.png) · [light](themes/gt3rs/drift/yellow/screenshot-light.png) · [art](themes/gt3rs/drift/yellow/art) |
-| [GT3 RS Drift](themes/gt3rs/drift) | Python Green | `drift-python` | [dark](themes/gt3rs/drift/python/screenshot.png) · [light](themes/gt3rs/drift/python/screenshot-light.png) · [art](themes/gt3rs/drift/python/art) |
-| [GT3 RS Drift](themes/gt3rs/drift) | Shark Blue | `drift-shark` | [dark](themes/gt3rs/drift/shark/screenshot.png) · [light](themes/gt3rs/drift/shark/screenshot-light.png) · [art](themes/gt3rs/drift/shark/art) |
-| [GT3 RS Drift](themes/gt3rs/drift) | Ruby Star | `drift-ruby` | [dark](themes/gt3rs/drift/ruby/screenshot.png) · [light](themes/gt3rs/drift/ruby/screenshot-light.png) · [art](themes/gt3rs/drift/ruby/art) |
-| [GT3 RS Drift](themes/gt3rs/drift) | GT Silver | `drift-silver` | [dark](themes/gt3rs/drift/silver/screenshot.png) · [light](themes/gt3rs/drift/silver/screenshot-light.png) · [art](themes/gt3rs/drift/silver/art) |
-| [Moonshot](themes/space/moonshot) | Saturn V | `moonshot-saturn` | [dark](themes/space/moonshot/saturn/screenshot.png) · [light](themes/space/moonshot/saturn/screenshot-light.png) · [art](themes/space/moonshot/saturn/art) |
-| [Moonshot](themes/space/moonshot) | Apollo 11 | `moonshot-apollo` | [dark](themes/space/moonshot/apollo/screenshot.png) · [light](themes/space/moonshot/apollo/screenshot-light.png) · [art](themes/space/moonshot/apollo/art) |
-| [Moonshot](themes/space/moonshot) | Voyager | `moonshot-voyager` | [dark](themes/space/moonshot/voyager/screenshot.png) · [light](themes/space/moonshot/voyager/screenshot-light.png) · [art](themes/space/moonshot/voyager/art) |
-| [Moonshot](themes/space/moonshot) | Space Shuttle | `moonshot-shuttle` | [dark](themes/space/moonshot/shuttle/screenshot.png) · [light](themes/space/moonshot/shuttle/screenshot-light.png) · [art](themes/space/moonshot/shuttle/art) |
-| [Moonshot](themes/space/moonshot) | Spacewalk | `moonshot-eva` | [dark](themes/space/moonshot/eva/screenshot.png) · [light](themes/space/moonshot/eva/screenshot-light.png) · [art](themes/space/moonshot/eva/art) |
-| [Space Race](themes/space/race) | Saturn V | `space-saturn` | [dark](themes/space/race/saturn/screenshot.png) · [light](themes/space/race/saturn/screenshot-light.png) · [art](themes/space/race/saturn/art) |
-| [Space Race](themes/space/race) | Apollo 11 | `space-apollo` | [dark](themes/space/race/apollo/screenshot.png) · [light](themes/space/race/apollo/screenshot-light.png) · [art](themes/space/race/apollo/art) |
-| [Space Race](themes/space/race) | Voyager | `space-voyager` | [dark](themes/space/race/voyager/screenshot.png) · [light](themes/space/race/voyager/screenshot-light.png) · [art](themes/space/race/voyager/art) |
-| [Space Race](themes/space/race) | Space Shuttle | `space-shuttle` | [dark](themes/space/race/shuttle/screenshot.png) · [light](themes/space/race/shuttle/screenshot-light.png) · [art](themes/space/race/shuttle/art) |
-| [Space Race](themes/space/race) | Spacewalk | `space-eva` | [dark](themes/space/race/eva/screenshot.png) · [light](themes/space/race/eva/screenshot-light.png) · [art](themes/space/race/eva/art) |
+| [GT3 RS](themes/gt3rs/track) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/track/guards/screenshot.png) · [light](themes/gt3rs/track/guards/screenshot-light.png) |
+| [GT3 RS](themes/gt3rs/track) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/track/lava/screenshot.png) · [light](themes/gt3rs/track/lava/screenshot-light.png) |
+| [GT3 RS](themes/gt3rs/track) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/track/yellow/screenshot.png) · [light](themes/gt3rs/track/yellow/screenshot-light.png) |
+| [GT3 RS](themes/gt3rs/track) | Python Green | `gt3rs-python` | [dark](themes/gt3rs/track/python/screenshot.png) · [light](themes/gt3rs/track/python/screenshot-light.png) |
+| [GT3 RS](themes/gt3rs/track) | Shark Blue | `gt3rs-shark` | [dark](themes/gt3rs/track/shark/screenshot.png) · [light](themes/gt3rs/track/shark/screenshot-light.png) |
+| [GT3 RS](themes/gt3rs/track) | Ruby Star | `gt3rs-ruby` | [dark](themes/gt3rs/track/ruby/screenshot.png) · [light](themes/gt3rs/track/ruby/screenshot-light.png) |
+| [GT3 RS](themes/gt3rs/track) | GT Silver | `gt3rs-silver` | [dark](themes/gt3rs/track/silver/screenshot.png) · [light](themes/gt3rs/track/silver/screenshot-light.png) |
+| [GT3 RS Drift](themes/gt3rs/drift) | Guards Red | `drift-guards` | [dark](themes/gt3rs/drift/guards/screenshot.png) · [light](themes/gt3rs/drift/guards/screenshot-light.png) |
+| [GT3 RS Drift](themes/gt3rs/drift) | Lava Orange | `drift-lava` | [dark](themes/gt3rs/drift/lava/screenshot.png) · [light](themes/gt3rs/drift/lava/screenshot-light.png) |
+| [GT3 RS Drift](themes/gt3rs/drift) | Racing Yellow | `drift-yellow` | [dark](themes/gt3rs/drift/yellow/screenshot.png) · [light](themes/gt3rs/drift/yellow/screenshot-light.png) |
+| [GT3 RS Drift](themes/gt3rs/drift) | Python Green | `drift-python` | [dark](themes/gt3rs/drift/python/screenshot.png) · [light](themes/gt3rs/drift/python/screenshot-light.png) |
+| [GT3 RS Drift](themes/gt3rs/drift) | Shark Blue | `drift-shark` | [dark](themes/gt3rs/drift/shark/screenshot.png) · [light](themes/gt3rs/drift/shark/screenshot-light.png) |
+| [GT3 RS Drift](themes/gt3rs/drift) | Ruby Star | `drift-ruby` | [dark](themes/gt3rs/drift/ruby/screenshot.png) · [light](themes/gt3rs/drift/ruby/screenshot-light.png) |
+| [GT3 RS Drift](themes/gt3rs/drift) | GT Silver | `drift-silver` | [dark](themes/gt3rs/drift/silver/screenshot.png) · [light](themes/gt3rs/drift/silver/screenshot-light.png) |
+| [Moonshot](themes/space/moonshot) | Saturn V | `moonshot-saturn` | [dark](themes/space/moonshot/saturn/screenshot.png) · [light](themes/space/moonshot/saturn/screenshot-light.png) |
+| [Moonshot](themes/space/moonshot) | Apollo 11 | `moonshot-apollo` | [dark](themes/space/moonshot/apollo/screenshot.png) · [light](themes/space/moonshot/apollo/screenshot-light.png) |
+| [Moonshot](themes/space/moonshot) | Voyager | `moonshot-voyager` | [dark](themes/space/moonshot/voyager/screenshot.png) · [light](themes/space/moonshot/voyager/screenshot-light.png) |
+| [Moonshot](themes/space/moonshot) | Space Shuttle | `moonshot-shuttle` | [dark](themes/space/moonshot/shuttle/screenshot.png) · [light](themes/space/moonshot/shuttle/screenshot-light.png) |
+| [Moonshot](themes/space/moonshot) | Spacewalk | `moonshot-eva` | [dark](themes/space/moonshot/eva/screenshot.png) · [light](themes/space/moonshot/eva/screenshot-light.png) |
+| [Space Race](themes/space/race) | Saturn V | `space-saturn` | [dark](themes/space/race/saturn/screenshot.png) · [light](themes/space/race/saturn/screenshot-light.png) |
+| [Space Race](themes/space/race) | Apollo 11 | `space-apollo` | [dark](themes/space/race/apollo/screenshot.png) · [light](themes/space/race/apollo/screenshot-light.png) |
+| [Space Race](themes/space/race) | Voyager | `space-voyager` | [dark](themes/space/race/voyager/screenshot.png) · [light](themes/space/race/voyager/screenshot-light.png) |
+| [Space Race](themes/space/race) | Space Shuttle | `space-shuttle` | [dark](themes/space/race/shuttle/screenshot.png) · [light](themes/space/race/shuttle/screenshot-light.png) |
+| [Space Race](themes/space/race) | Spacewalk | `space-eva` | [dark](themes/space/race/eva/screenshot.png) · [light](themes/space/race/eva/screenshot-light.png) |
 
 </details>
 <!-- catalog:end -->
-
-## Download the art
-
-Themes live under [`themes/`](themes): a folder per subject, a folder per collection inside it, and a folder per theme:
-
-```text
-themes/
-├── gt3rs/                  a subject: GT3 RS
-│   ├── README.md             its collections
-│   ├── drift/                another collection (GT3 RS Drift)
-│   └── track/                a collection (GT3 RS, the night track)
-│       ├── README.md           its gallery
-│       ├── banner.png          every theme side by side
-│       ├── art-sheet.png       all its pixel art
-│       └── lava/               a theme (id gt3rs-lava)
-│           ├── art/              the pixel images at native size, transparent background
-│           │   ├── hero.png        600×225 · above the wordmark
-│           │   ├── top.png         160×120 · top of the sidebar
-│           │   ├── bottom.png      160×133 · bottom of the sidebar
-│           │   └── *-light.png     the same three for the light edition
-│           ├── raw/              the full-resolution images
-│           ├── screenshot.png    the theme applied to Hermes Desktop (dark mode)
-│           └── screenshot-light.png                      (light mode)
-└── space/                  a subject: Space, with race/ and moonshot/
-```
-
-The art is meant to be shown at 2× with nearest-neighbour scaling, which is how the app renders it.
 
 ## License
 

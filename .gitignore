@@ -6,3 +6,15 @@ __pycache__/
 .atl/
 promo/
 odd/
+
+# Only what Hermes Desktop uses ships on GitHub: the plugin, the READMEs, the
+# collection banners and the screenshots. Theme sources and tools stay local.
+tools/
+themes/**/raw/
+themes/**/art/
+themes/**/theme.json
+themes/**/prompts.txt
+themes/**/preview.png
+themes/**/art-sheet.png
+themes/**/collection.json
+themes/**/group.json

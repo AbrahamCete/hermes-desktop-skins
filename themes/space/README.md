@@ -27,17 +27,17 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 <details>
 <summary><b>Every theme</b> (10)</summary>
 
-| Collection | Theme | Id | Files |
+| Collection | Theme | Id | Screenshots |
 |---|---|---|---|
-| [Moonshot](moonshot) | Saturn V | `moonshot-saturn` | [dark](moonshot/saturn/screenshot.png) · [light](moonshot/saturn/screenshot-light.png) · [art](moonshot/saturn/art) |
-| [Moonshot](moonshot) | Apollo 11 | `moonshot-apollo` | [dark](moonshot/apollo/screenshot.png) · [light](moonshot/apollo/screenshot-light.png) · [art](moonshot/apollo/art) |
-| [Moonshot](moonshot) | Voyager | `moonshot-voyager` | [dark](moonshot/voyager/screenshot.png) · [light](moonshot/voyager/screenshot-light.png) · [art](moonshot/voyager/art) |
-| [Moonshot](moonshot) | Space Shuttle | `moonshot-shuttle` | [dark](moonshot/shuttle/screenshot.png) · [light](moonshot/shuttle/screenshot-light.png) · [art](moonshot/shuttle/art) |
-| [Moonshot](moonshot) | Spacewalk | `moonshot-eva` | [dark](moonshot/eva/screenshot.png) · [light](moonshot/eva/screenshot-light.png) · [art](moonshot/eva/art) |
-| [Space Race](race) | Saturn V | `space-saturn` | [dark](race/saturn/screenshot.png) · [light](race/saturn/screenshot-light.png) · [art](race/saturn/art) |
-| [Space Race](race) | Apollo 11 | `space-apollo` | [dark](race/apollo/screenshot.png) · [light](race/apollo/screenshot-light.png) · [art](race/apollo/art) |
-| [Space Race](race) | Voyager | `space-voyager` | [dark](race/voyager/screenshot.png) · [light](race/voyager/screenshot-light.png) · [art](race/voyager/art) |
-| [Space Race](race) | Space Shuttle | `space-shuttle` | [dark](race/shuttle/screenshot.png) · [light](race/shuttle/screenshot-light.png) · [art](race/shuttle/art) |
-| [Space Race](race) | Spacewalk | `space-eva` | [dark](race/eva/screenshot.png) · [light](race/eva/screenshot-light.png) · [art](race/eva/art) |
+| [Moonshot](moonshot) | Saturn V | `moonshot-saturn` | [dark](moonshot/saturn/screenshot.png) · [light](moonshot/saturn/screenshot-light.png) |
+| [Moonshot](moonshot) | Apollo 11 | `moonshot-apollo` | [dark](moonshot/apollo/screenshot.png) · [light](moonshot/apollo/screenshot-light.png) |
+| [Moonshot](moonshot) | Voyager | `moonshot-voyager` | [dark](moonshot/voyager/screenshot.png) · [light](moonshot/voyager/screenshot-light.png) |
+| [Moonshot](moonshot) | Space Shuttle | `moonshot-shuttle` | [dark](moonshot/shuttle/screenshot.png) · [light](moonshot/shuttle/screenshot-light.png) |
+| [Moonshot](moonshot) | Spacewalk | `moonshot-eva` | [dark](moonshot/eva/screenshot.png) · [light](moonshot/eva/screenshot-light.png) |
+| [Space Race](race) | Saturn V | `space-saturn` | [dark](race/saturn/screenshot.png) · [light](race/saturn/screenshot-light.png) |
+| [Space Race](race) | Apollo 11 | `space-apollo` | [dark](race/apollo/screenshot.png) · [light](race/apollo/screenshot-light.png) |
+| [Space Race](race) | Voyager | `space-voyager` | [dark](race/voyager/screenshot.png) · [light](race/voyager/screenshot-light.png) |
+| [Space Race](race) | Space Shuttle | `space-shuttle` | [dark](race/shuttle/screenshot.png) · [light](race/shuttle/screenshot-light.png) |
+| [Space Race](race) | Spacewalk | `space-eva` | [dark](race/eva/screenshot.png) · [light](race/eva/screenshot-light.png) |
 
 </details>
