@@ -7,7 +7,7 @@
 Dithered pixel art for the desktop app: a wide hero above the wordmark, two sidebar panels and a faint backdrop behind your conversations.
 Every theme has a dark and a light edition and a touch of animation. Install once and switch from the theme picker.
 
-<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 2 COLLECTIONS &nbsp;·&nbsp; 12 THEMES</sub>
+<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 4 COLLECTIONS &nbsp;·&nbsp; 24 THEMES</sub>
 
 <br /><br />
 
@@ -40,6 +40,22 @@ Seven factory colours of the 992 GT3 RS. Same car, different paint. **[Browse th
 
 <sub>`gt3rs-guards` `gt3rs-lava` `gt3rs-yellow` `gt3rs-python` `gt3rs-shark` `gt3rs-ruby` `gt3rs-silver`</sub>
 
+### [GT3 RS Drift](themes/drift) &nbsp;<sub>7 themes</sub>
+
+<a href="themes/drift"><img src="themes/drift/banner.png" alt="GT3 RS Drift: Guards Red, Lava Orange, Racing Yellow, Python Green, Shark Blue, Ruby Star, GT Silver" /></a>
+
+The 992 GT3 RS sideways in a cloud of tyre smoke, in seven factory colours. **[Browse the collection →](themes/drift)**
+
+<sub>`drift-guards` `drift-lava` `drift-yellow` `drift-python` `drift-shark` `drift-ruby` `drift-silver`</sub>
+
+### [Moonshot](themes/moonshot) &nbsp;<sub>5 themes</sub>
+
+<a href="themes/moonshot"><img src="themes/moonshot/banner.png" alt="Moonshot: Saturn V, Apollo 11, Voyager, Space Shuttle, Spacewalk" /></a>
+
+The space age as a 1960s print: the same five missions, drawn again. **[Browse the collection →](themes/moonshot)**
+
+<sub>`moonshot-saturn` `moonshot-apollo` `moonshot-voyager` `moonshot-shuttle` `moonshot-eva`</sub>
+
 ### [Space Race](themes/space) &nbsp;<sub>5 themes</sub>
 
 <a href="themes/space"><img src="themes/space/banner.png" alt="Space Race: Saturn V, Apollo 11, Voyager, Space Shuttle, Spacewalk" /></a>
@@ -49,7 +65,7 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 <sub>`space-saturn` `space-apollo` `space-voyager` `space-shuttle` `space-eva`</sub>
 
 <details>
-<summary><b>Every theme</b> (12)</summary>
+<summary><b>Every theme</b> (24)</summary>
 
 | Collection | Theme | Id | Files |
 |---|---|---|---|
@@ -60,6 +76,18 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 | [GT3 RS](themes/gt3rs) | Shark Blue | `gt3rs-shark` | [dark](themes/gt3rs/shark/screenshot.png) · [light](themes/gt3rs/shark/screenshot-light.png) · [art](themes/gt3rs/shark/art) |
 | [GT3 RS](themes/gt3rs) | Ruby Star | `gt3rs-ruby` | [dark](themes/gt3rs/ruby/screenshot.png) · [light](themes/gt3rs/ruby/screenshot-light.png) · [art](themes/gt3rs/ruby/art) |
 | [GT3 RS](themes/gt3rs) | GT Silver | `gt3rs-silver` | [dark](themes/gt3rs/silver/screenshot.png) · [light](themes/gt3rs/silver/screenshot-light.png) · [art](themes/gt3rs/silver/art) |
+| [GT3 RS Drift](themes/drift) | Guards Red | `drift-guards` | [dark](themes/drift/guards/screenshot.png) · [light](themes/drift/guards/screenshot-light.png) · [art](themes/drift/guards/art) |
+| [GT3 RS Drift](themes/drift) | Lava Orange | `drift-lava` | [dark](themes/drift/lava/screenshot.png) · [light](themes/drift/lava/screenshot-light.png) · [art](themes/drift/lava/art) |
+| [GT3 RS Drift](themes/drift) | Racing Yellow | `drift-yellow` | [dark](themes/drift/yellow/screenshot.png) · [light](themes/drift/yellow/screenshot-light.png) · [art](themes/drift/yellow/art) |
+| [GT3 RS Drift](themes/drift) | Python Green | `drift-python` | [dark](themes/drift/python/screenshot.png) · [light](themes/drift/python/screenshot-light.png) · [art](themes/drift/python/art) |
+| [GT3 RS Drift](themes/drift) | Shark Blue | `drift-shark` | [dark](themes/drift/shark/screenshot.png) · [light](themes/drift/shark/screenshot-light.png) · [art](themes/drift/shark/art) |
+| [GT3 RS Drift](themes/drift) | Ruby Star | `drift-ruby` | [dark](themes/drift/ruby/screenshot.png) · [light](themes/drift/ruby/screenshot-light.png) · [art](themes/drift/ruby/art) |
+| [GT3 RS Drift](themes/drift) | GT Silver | `drift-silver` | [dark](themes/drift/silver/screenshot.png) · [light](themes/drift/silver/screenshot-light.png) · [art](themes/drift/silver/art) |
+| [Moonshot](themes/moonshot) | Saturn V | `moonshot-saturn` | [dark](themes/moonshot/saturn/screenshot.png) · [light](themes/moonshot/saturn/screenshot-light.png) · [art](themes/moonshot/saturn/art) |
+| [Moonshot](themes/moonshot) | Apollo 11 | `moonshot-apollo` | [dark](themes/moonshot/apollo/screenshot.png) · [light](themes/moonshot/apollo/screenshot-light.png) · [art](themes/moonshot/apollo/art) |
+| [Moonshot](themes/moonshot) | Voyager | `moonshot-voyager` | [dark](themes/moonshot/voyager/screenshot.png) · [light](themes/moonshot/voyager/screenshot-light.png) · [art](themes/moonshot/voyager/art) |
+| [Moonshot](themes/moonshot) | Space Shuttle | `moonshot-shuttle` | [dark](themes/moonshot/shuttle/screenshot.png) · [light](themes/moonshot/shuttle/screenshot-light.png) · [art](themes/moonshot/shuttle/art) |
+| [Moonshot](themes/moonshot) | Spacewalk | `moonshot-eva` | [dark](themes/moonshot/eva/screenshot.png) · [light](themes/moonshot/eva/screenshot-light.png) · [art](themes/moonshot/eva/art) |
 | [Space Race](themes/space) | Saturn V | `space-saturn` | [dark](themes/space/saturn/screenshot.png) · [light](themes/space/saturn/screenshot-light.png) · [art](themes/space/saturn/art) |
 | [Space Race](themes/space) | Apollo 11 | `space-apollo` | [dark](themes/space/apollo/screenshot.png) · [light](themes/space/apollo/screenshot-light.png) · [art](themes/space/apollo/art) |
 | [Space Race](themes/space) | Voyager | `space-voyager` | [dark](themes/space/voyager/screenshot.png) · [light](themes/space/voyager/screenshot-light.png) · [art](themes/space/voyager/art) |
