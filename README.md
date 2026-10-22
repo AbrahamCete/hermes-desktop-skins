@@ -7,7 +7,7 @@
 Dithered pixel art for the desktop app: a wide hero above the wordmark, two sidebar panels and a faint backdrop behind your conversations.
 Every theme has a dark and a light edition and a touch of animation. Install once and switch from the theme picker.
 
-<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 8 COLLECTIONS &nbsp;·&nbsp; 46 THEMES</sub>
+<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 5 COLLECTIONS &nbsp;·&nbsp; 46 THEMES</sub>
 
 <br /><br />
 
@@ -59,41 +59,13 @@ Restart Hermes Desktop after updating to load the new themes.
 Themes are grouped by subject, and each subject has collections: one scene in several looks. Click a banner to see every theme of a collection applied to Hermes Desktop.
 
 <!-- catalog:start -->
-### [Edo](themes/edo)
+### [Edo](themes/edo) &nbsp;<sub>22 themes</sub>
 
-Japan's Edo period as woodblock prints, from the great wave to yokai and the gods of myth: night scenes in dark mode, washi paper in light mode.
+<a href="themes/edo"><img src="themes/edo/banner.png" alt="Edo: Great Wave, Mount Fuji, Ronin, Koi, Sakura, Torii, Dragon, Kitsune, Crane, Bamboo, Tengu, Kappa, Oni, Nekomata, Jorogumo, Yuki-onna, Raijin & Fujin, Amaterasu, Hoo Phoenix, Orochi, Kirin, Baku" /></a>
 
-#### [Floating World](themes/edo/floating-world) &nbsp;<sub>5 themes</sub>
+Japan's Edo period as woodblock prints, from the great wave to yokai and the gods of myth: night scenes in dark mode, washi paper in light mode. **[Browse the collection →](themes/edo)**
 
-<a href="themes/edo/floating-world"><img src="themes/edo/floating-world/banner.png" alt="Floating World: Great Wave, Mount Fuji, Ronin, Koi, Sakura" /></a>
-
-Ukiyo-e in pixels: the great wave, Fuji, a ronin in the rain, koi and sakura. **[Browse the collection →](themes/edo/floating-world)**
-
-<sub>`edo-wave` `edo-fuji` `edo-ronin` `edo-koi` `edo-sakura`</sub>
-
-#### [Kami & Beasts](themes/edo/kami) &nbsp;<sub>6 themes</sub>
-
-<a href="themes/edo/kami"><img src="themes/edo/kami/banner.png" alt="Kami & Beasts: Raijin & Fujin, Amaterasu, Hoo Phoenix, Orochi, Kirin, Baku" /></a>
-
-Thunder and sun gods, the phoenix, the eight-headed serpent, the kirin and the dream eater. **[Browse the collection →](themes/edo/kami)**
-
-<sub>`edo-raijin` `edo-amaterasu` `edo-hoo` `edo-orochi` `edo-kirin` `edo-baku`</sub>
-
-#### [Shrines & Spirits](themes/edo/spirits) &nbsp;<sub>5 themes</sub>
-
-<a href="themes/edo/spirits"><img src="themes/edo/spirits/banner.png" alt="Shrines & Spirits: Torii, Dragon, Kitsune, Crane, Bamboo" /></a>
-
-Torii in the sea, a storm dragon, fox spirits, winter cranes and a bamboo night walk. **[Browse the collection →](themes/edo/spirits)**
-
-<sub>`edo-torii` `edo-dragon` `edo-kitsune` `edo-crane` `edo-bamboo`</sub>
-
-#### [Yokai Night Parade](themes/edo/yokai) &nbsp;<sub>6 themes</sub>
-
-<a href="themes/edo/yokai"><img src="themes/edo/yokai/banner.png" alt="Yokai Night Parade: Tengu, Kappa, Oni, Nekomata, Jorogumo, Yuki-onna" /></a>
-
-Goblins, river imps, demons and ghosts of Japanese folklore, glowing through the night. **[Browse the collection →](themes/edo/yokai)**
-
-<sub>`edo-tengu` `edo-kappa` `edo-oni` `edo-nekomata` `edo-jorogumo` `edo-yukionna`</sub>
+<sub>`edo-wave` `edo-fuji` `edo-ronin` `edo-koi` `edo-sakura` `edo-torii` `edo-dragon` `edo-kitsune` `edo-crane` `edo-bamboo` `edo-tengu` `edo-kappa` `edo-oni` `edo-nekomata` `edo-jorogumo` `edo-yukionna` `edo-raijin` `edo-amaterasu` `edo-hoo` `edo-orochi` `edo-kirin` `edo-baku`</sub>
 
 ### [GT3 RS](themes/gt3rs)
 
@@ -140,28 +112,28 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 
 | Collection | Theme | Id | Screenshots |
 |---|---|---|---|
-| [Floating World](themes/edo/floating-world) | Great Wave | `edo-wave` | [dark](themes/edo/floating-world/wave/screenshot.png) · [light](themes/edo/floating-world/wave/screenshot-light.png) |
-| [Floating World](themes/edo/floating-world) | Mount Fuji | `edo-fuji` | [dark](themes/edo/floating-world/fuji/screenshot.png) · [light](themes/edo/floating-world/fuji/screenshot-light.png) |
-| [Floating World](themes/edo/floating-world) | Ronin | `edo-ronin` | [dark](themes/edo/floating-world/ronin/screenshot.png) · [light](themes/edo/floating-world/ronin/screenshot-light.png) |
-| [Floating World](themes/edo/floating-world) | Koi | `edo-koi` | [dark](themes/edo/floating-world/koi/screenshot.png) · [light](themes/edo/floating-world/koi/screenshot-light.png) |
-| [Floating World](themes/edo/floating-world) | Sakura | `edo-sakura` | [dark](themes/edo/floating-world/sakura/screenshot.png) · [light](themes/edo/floating-world/sakura/screenshot-light.png) |
-| [Kami & Beasts](themes/edo/kami) | Raijin & Fujin | `edo-raijin` | [dark](themes/edo/kami/raijin/screenshot.png) · [light](themes/edo/kami/raijin/screenshot-light.png) |
-| [Kami & Beasts](themes/edo/kami) | Amaterasu | `edo-amaterasu` | [dark](themes/edo/kami/amaterasu/screenshot.png) · [light](themes/edo/kami/amaterasu/screenshot-light.png) |
-| [Kami & Beasts](themes/edo/kami) | Hoo Phoenix | `edo-hoo` | [dark](themes/edo/kami/hoo/screenshot.png) · [light](themes/edo/kami/hoo/screenshot-light.png) |
-| [Kami & Beasts](themes/edo/kami) | Orochi | `edo-orochi` | [dark](themes/edo/kami/orochi/screenshot.png) · [light](themes/edo/kami/orochi/screenshot-light.png) |
-| [Kami & Beasts](themes/edo/kami) | Kirin | `edo-kirin` | [dark](themes/edo/kami/kirin/screenshot.png) · [light](themes/edo/kami/kirin/screenshot-light.png) |
-| [Kami & Beasts](themes/edo/kami) | Baku | `edo-baku` | [dark](themes/edo/kami/baku/screenshot.png) · [light](themes/edo/kami/baku/screenshot-light.png) |
-| [Shrines & Spirits](themes/edo/spirits) | Torii | `edo-torii` | [dark](themes/edo/spirits/torii/screenshot.png) · [light](themes/edo/spirits/torii/screenshot-light.png) |
-| [Shrines & Spirits](themes/edo/spirits) | Dragon | `edo-dragon` | [dark](themes/edo/spirits/dragon/screenshot.png) · [light](themes/edo/spirits/dragon/screenshot-light.png) |
-| [Shrines & Spirits](themes/edo/spirits) | Kitsune | `edo-kitsune` | [dark](themes/edo/spirits/kitsune/screenshot.png) · [light](themes/edo/spirits/kitsune/screenshot-light.png) |
-| [Shrines & Spirits](themes/edo/spirits) | Crane | `edo-crane` | [dark](themes/edo/spirits/crane/screenshot.png) · [light](themes/edo/spirits/crane/screenshot-light.png) |
-| [Shrines & Spirits](themes/edo/spirits) | Bamboo | `edo-bamboo` | [dark](themes/edo/spirits/bamboo/screenshot.png) · [light](themes/edo/spirits/bamboo/screenshot-light.png) |
-| [Yokai Night Parade](themes/edo/yokai) | Tengu | `edo-tengu` | [dark](themes/edo/yokai/tengu/screenshot.png) · [light](themes/edo/yokai/tengu/screenshot-light.png) |
-| [Yokai Night Parade](themes/edo/yokai) | Kappa | `edo-kappa` | [dark](themes/edo/yokai/kappa/screenshot.png) · [light](themes/edo/yokai/kappa/screenshot-light.png) |
-| [Yokai Night Parade](themes/edo/yokai) | Oni | `edo-oni` | [dark](themes/edo/yokai/oni/screenshot.png) · [light](themes/edo/yokai/oni/screenshot-light.png) |
-| [Yokai Night Parade](themes/edo/yokai) | Nekomata | `edo-nekomata` | [dark](themes/edo/yokai/nekomata/screenshot.png) · [light](themes/edo/yokai/nekomata/screenshot-light.png) |
-| [Yokai Night Parade](themes/edo/yokai) | Jorogumo | `edo-jorogumo` | [dark](themes/edo/yokai/jorogumo/screenshot.png) · [light](themes/edo/yokai/jorogumo/screenshot-light.png) |
-| [Yokai Night Parade](themes/edo/yokai) | Yuki-onna | `edo-yukionna` | [dark](themes/edo/yokai/yukionna/screenshot.png) · [light](themes/edo/yokai/yukionna/screenshot-light.png) |
+| [Edo](themes/edo) | Great Wave | `edo-wave` | [dark](themes/edo/wave/screenshot.png) · [light](themes/edo/wave/screenshot-light.png) |
+| [Edo](themes/edo) | Mount Fuji | `edo-fuji` | [dark](themes/edo/fuji/screenshot.png) · [light](themes/edo/fuji/screenshot-light.png) |
+| [Edo](themes/edo) | Ronin | `edo-ronin` | [dark](themes/edo/ronin/screenshot.png) · [light](themes/edo/ronin/screenshot-light.png) |
+| [Edo](themes/edo) | Koi | `edo-koi` | [dark](themes/edo/koi/screenshot.png) · [light](themes/edo/koi/screenshot-light.png) |
+| [Edo](themes/edo) | Sakura | `edo-sakura` | [dark](themes/edo/sakura/screenshot.png) · [light](themes/edo/sakura/screenshot-light.png) |
+| [Edo](themes/edo) | Torii | `edo-torii` | [dark](themes/edo/torii/screenshot.png) · [light](themes/edo/torii/screenshot-light.png) |
+| [Edo](themes/edo) | Dragon | `edo-dragon` | [dark](themes/edo/dragon/screenshot.png) · [light](themes/edo/dragon/screenshot-light.png) |
+| [Edo](themes/edo) | Kitsune | `edo-kitsune` | [dark](themes/edo/kitsune/screenshot.png) · [light](themes/edo/kitsune/screenshot-light.png) |
+| [Edo](themes/edo) | Crane | `edo-crane` | [dark](themes/edo/crane/screenshot.png) · [light](themes/edo/crane/screenshot-light.png) |
+| [Edo](themes/edo) | Bamboo | `edo-bamboo` | [dark](themes/edo/bamboo/screenshot.png) · [light](themes/edo/bamboo/screenshot-light.png) |
+| [Edo](themes/edo) | Tengu | `edo-tengu` | [dark](themes/edo/tengu/screenshot.png) · [light](themes/edo/tengu/screenshot-light.png) |
+| [Edo](themes/edo) | Kappa | `edo-kappa` | [dark](themes/edo/kappa/screenshot.png) · [light](themes/edo/kappa/screenshot-light.png) |
+| [Edo](themes/edo) | Oni | `edo-oni` | [dark](themes/edo/oni/screenshot.png) · [light](themes/edo/oni/screenshot-light.png) |
+| [Edo](themes/edo) | Nekomata | `edo-nekomata` | [dark](themes/edo/nekomata/screenshot.png) · [light](themes/edo/nekomata/screenshot-light.png) |
+| [Edo](themes/edo) | Jorogumo | `edo-jorogumo` | [dark](themes/edo/jorogumo/screenshot.png) · [light](themes/edo/jorogumo/screenshot-light.png) |
+| [Edo](themes/edo) | Yuki-onna | `edo-yukionna` | [dark](themes/edo/yukionna/screenshot.png) · [light](themes/edo/yukionna/screenshot-light.png) |
+| [Edo](themes/edo) | Raijin & Fujin | `edo-raijin` | [dark](themes/edo/raijin/screenshot.png) · [light](themes/edo/raijin/screenshot-light.png) |
+| [Edo](themes/edo) | Amaterasu | `edo-amaterasu` | [dark](themes/edo/amaterasu/screenshot.png) · [light](themes/edo/amaterasu/screenshot-light.png) |
+| [Edo](themes/edo) | Hoo Phoenix | `edo-hoo` | [dark](themes/edo/hoo/screenshot.png) · [light](themes/edo/hoo/screenshot-light.png) |
+| [Edo](themes/edo) | Orochi | `edo-orochi` | [dark](themes/edo/orochi/screenshot.png) · [light](themes/edo/orochi/screenshot-light.png) |
+| [Edo](themes/edo) | Kirin | `edo-kirin` | [dark](themes/edo/kirin/screenshot.png) · [light](themes/edo/kirin/screenshot-light.png) |
+| [Edo](themes/edo) | Baku | `edo-baku` | [dark](themes/edo/baku/screenshot.png) · [light](themes/edo/baku/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/track/guards/screenshot.png) · [light](themes/gt3rs/track/guards/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/track/lava/screenshot.png) · [light](themes/gt3rs/track/lava/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/track/yellow/screenshot.png) · [light](themes/gt3rs/track/yellow/screenshot-light.png) |

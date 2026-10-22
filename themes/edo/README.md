@@ -4,68 +4,186 @@
 
 **Japan's Edo period as woodblock prints, from the great wave to yokai and the gods of myth: night scenes in dark mode, washi paper in light mode.**
 
-<sub>4 COLLECTIONS &nbsp;·&nbsp; 22 THEMES &nbsp;·&nbsp; <a href="../../README.md#install">INSTALL</a></sub>
+<sub>22 THEMES &nbsp;·&nbsp; <a href="../../README.md#install">INSTALL</a> &nbsp;·&nbsp; <a href="../../README.md#collections">ALL COLLECTIONS</a></sub>
+
+<br /><br />
+
+![Edo: every theme side by side](banner.png)
 
 </div>
 
-## [Floating World](floating-world) &nbsp;<sub>5 themes</sub>
+## Great Wave
 
-<a href="floating-world"><img src="floating-world/banner.png" alt="Floating World: Great Wave, Mount Fuji, Ronin, Koi, Sakura" /></a>
+`edo-wave` · The great wave breaking under a full moon
 
-Ukiyo-e in pixels: the great wave, Fuji, a ronin in the rain, koi and sakura. **[Browse the collection →](floating-world)**
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Great Wave in dark mode](wave/screenshot.png) | ![Edo · Great Wave in light mode](wave/screenshot-light.png) |
 
-<sub>`edo-wave` `edo-fuji` `edo-ronin` `edo-koi` `edo-sakura`</sub>
+## Mount Fuji
 
-## [Kami & Beasts](kami) &nbsp;<sub>6 themes</sub>
+`edo-fuji` · Fuji above the clouds at dusk
 
-<a href="kami"><img src="kami/banner.png" alt="Kami & Beasts: Raijin & Fujin, Amaterasu, Hoo Phoenix, Orochi, Kirin, Baku" /></a>
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Mount Fuji in dark mode](fuji/screenshot.png) | ![Edo · Mount Fuji in light mode](fuji/screenshot-light.png) |
 
-Thunder and sun gods, the phoenix, the eight-headed serpent, the kirin and the dream eater. **[Browse the collection →](kami)**
+## Ronin
 
-<sub>`edo-raijin` `edo-amaterasu` `edo-hoo` `edo-orochi` `edo-kirin` `edo-baku`</sub>
+`edo-ronin` · A lone samurai crossing the bridge in the rain
 
-## [Shrines & Spirits](spirits) &nbsp;<sub>5 themes</sub>
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Ronin in dark mode](ronin/screenshot.png) | ![Edo · Ronin in light mode](ronin/screenshot-light.png) |
 
-<a href="spirits"><img src="spirits/banner.png" alt="Shrines & Spirits: Torii, Dragon, Kitsune, Crane, Bamboo" /></a>
+## Koi
 
-Torii in the sea, a storm dragon, fox spirits, winter cranes and a bamboo night walk. **[Browse the collection →](spirits)**
+`edo-koi` · Koi circling in a dark pond
 
-<sub>`edo-torii` `edo-dragon` `edo-kitsune` `edo-crane` `edo-bamboo`</sub>
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Koi in dark mode](koi/screenshot.png) | ![Edo · Koi in light mode](koi/screenshot-light.png) |
 
-## [Yokai Night Parade](yokai) &nbsp;<sub>6 themes</sub>
+## Sakura
 
-<a href="yokai"><img src="yokai/banner.png" alt="Yokai Night Parade: Tengu, Kappa, Oni, Nekomata, Jorogumo, Yuki-onna" /></a>
+`edo-sakura` · Cherry blossoms around the pagoda
 
-Goblins, river imps, demons and ghosts of Japanese folklore, glowing through the night. **[Browse the collection →](yokai)**
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Sakura in dark mode](sakura/screenshot.png) | ![Edo · Sakura in light mode](sakura/screenshot-light.png) |
 
-<sub>`edo-tengu` `edo-kappa` `edo-oni` `edo-nekomata` `edo-jorogumo` `edo-yukionna`</sub>
+## Torii
 
-<details>
-<summary><b>Every theme</b> (22)</summary>
+`edo-torii` · The great torii standing in the sea under the moon
 
-| Collection | Theme | Id | Screenshots |
-|---|---|---|---|
-| [Floating World](floating-world) | Great Wave | `edo-wave` | [dark](floating-world/wave/screenshot.png) · [light](floating-world/wave/screenshot-light.png) |
-| [Floating World](floating-world) | Mount Fuji | `edo-fuji` | [dark](floating-world/fuji/screenshot.png) · [light](floating-world/fuji/screenshot-light.png) |
-| [Floating World](floating-world) | Ronin | `edo-ronin` | [dark](floating-world/ronin/screenshot.png) · [light](floating-world/ronin/screenshot-light.png) |
-| [Floating World](floating-world) | Koi | `edo-koi` | [dark](floating-world/koi/screenshot.png) · [light](floating-world/koi/screenshot-light.png) |
-| [Floating World](floating-world) | Sakura | `edo-sakura` | [dark](floating-world/sakura/screenshot.png) · [light](floating-world/sakura/screenshot-light.png) |
-| [Kami & Beasts](kami) | Raijin & Fujin | `edo-raijin` | [dark](kami/raijin/screenshot.png) · [light](kami/raijin/screenshot-light.png) |
-| [Kami & Beasts](kami) | Amaterasu | `edo-amaterasu` | [dark](kami/amaterasu/screenshot.png) · [light](kami/amaterasu/screenshot-light.png) |
-| [Kami & Beasts](kami) | Hoo Phoenix | `edo-hoo` | [dark](kami/hoo/screenshot.png) · [light](kami/hoo/screenshot-light.png) |
-| [Kami & Beasts](kami) | Orochi | `edo-orochi` | [dark](kami/orochi/screenshot.png) · [light](kami/orochi/screenshot-light.png) |
-| [Kami & Beasts](kami) | Kirin | `edo-kirin` | [dark](kami/kirin/screenshot.png) · [light](kami/kirin/screenshot-light.png) |
-| [Kami & Beasts](kami) | Baku | `edo-baku` | [dark](kami/baku/screenshot.png) · [light](kami/baku/screenshot-light.png) |
-| [Shrines & Spirits](spirits) | Torii | `edo-torii` | [dark](spirits/torii/screenshot.png) · [light](spirits/torii/screenshot-light.png) |
-| [Shrines & Spirits](spirits) | Dragon | `edo-dragon` | [dark](spirits/dragon/screenshot.png) · [light](spirits/dragon/screenshot-light.png) |
-| [Shrines & Spirits](spirits) | Kitsune | `edo-kitsune` | [dark](spirits/kitsune/screenshot.png) · [light](spirits/kitsune/screenshot-light.png) |
-| [Shrines & Spirits](spirits) | Crane | `edo-crane` | [dark](spirits/crane/screenshot.png) · [light](spirits/crane/screenshot-light.png) |
-| [Shrines & Spirits](spirits) | Bamboo | `edo-bamboo` | [dark](spirits/bamboo/screenshot.png) · [light](spirits/bamboo/screenshot-light.png) |
-| [Yokai Night Parade](yokai) | Tengu | `edo-tengu` | [dark](yokai/tengu/screenshot.png) · [light](yokai/tengu/screenshot-light.png) |
-| [Yokai Night Parade](yokai) | Kappa | `edo-kappa` | [dark](yokai/kappa/screenshot.png) · [light](yokai/kappa/screenshot-light.png) |
-| [Yokai Night Parade](yokai) | Oni | `edo-oni` | [dark](yokai/oni/screenshot.png) · [light](yokai/oni/screenshot-light.png) |
-| [Yokai Night Parade](yokai) | Nekomata | `edo-nekomata` | [dark](yokai/nekomata/screenshot.png) · [light](yokai/nekomata/screenshot-light.png) |
-| [Yokai Night Parade](yokai) | Jorogumo | `edo-jorogumo` | [dark](yokai/jorogumo/screenshot.png) · [light](yokai/jorogumo/screenshot-light.png) |
-| [Yokai Night Parade](yokai) | Yuki-onna | `edo-yukionna` | [dark](yokai/yukionna/screenshot.png) · [light](yokai/yukionna/screenshot-light.png) |
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Torii in dark mode](torii/screenshot.png) | ![Edo · Torii in light mode](torii/screenshot-light.png) |
 
-</details>
+## Dragon
+
+`edo-dragon` · A dragon coiling through the storm
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Dragon in dark mode](dragon/screenshot.png) | ![Edo · Dragon in light mode](dragon/screenshot-light.png) |
+
+## Kitsune
+
+`edo-kitsune` · Fox spirits at the gate of the shrine
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Kitsune in dark mode](kitsune/screenshot.png) | ![Edo · Kitsune in light mode](kitsune/screenshot-light.png) |
+
+## Crane
+
+`edo-crane` · Cranes over the snow under a winter moon
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Crane in dark mode](crane/screenshot.png) | ![Edo · Crane in light mode](crane/screenshot-light.png) |
+
+## Bamboo
+
+`edo-bamboo` · A night walk through the bamboo with fireflies
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Bamboo in dark mode](bamboo/screenshot.png) | ![Edo · Bamboo in light mode](bamboo/screenshot-light.png) |
+
+## Tengu
+
+`edo-tengu` · A tengu above a sea of clouds
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Tengu in dark mode](tengu/screenshot.png) | ![Edo · Tengu in light mode](tengu/screenshot-light.png) |
+
+## Kappa
+
+`edo-kappa` · A kappa in the moonlit river
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Kappa in dark mode](kappa/screenshot.png) | ![Edo · Kappa in light mode](kappa/screenshot-light.png) |
+
+## Oni
+
+`edo-oni` · An oni at the burning gate
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Oni in dark mode](oni/screenshot.png) | ![Edo · Oni in light mode](oni/screenshot-light.png) |
+
+## Nekomata
+
+`edo-nekomata` · A two-tailed cat on the temple roof
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Nekomata in dark mode](nekomata/screenshot.png) | ![Edo · Nekomata in light mode](nekomata/screenshot-light.png) |
+
+## Jorogumo
+
+`edo-jorogumo` · A spider spirit's silver web
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Jorogumo in dark mode](jorogumo/screenshot.png) | ![Edo · Jorogumo in light mode](jorogumo/screenshot-light.png) |
+
+## Yuki-onna
+
+`edo-yukionna` · The snow woman in the blizzard
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Yuki-onna in dark mode](yukionna/screenshot.png) | ![Edo · Yuki-onna in light mode](yukionna/screenshot-light.png) |
+
+## Raijin & Fujin
+
+`edo-raijin` · The thunder and wind gods
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Raijin & Fujin in dark mode](raijin/screenshot.png) | ![Edo · Raijin & Fujin in light mode](raijin/screenshot-light.png) |
+
+## Amaterasu
+
+`edo-amaterasu` · The sun goddess leaves her cave
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Amaterasu in dark mode](amaterasu/screenshot.png) | ![Edo · Amaterasu in light mode](amaterasu/screenshot-light.png) |
+
+## Hoo Phoenix
+
+`edo-hoo` · The phoenix over the lake pavilion
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Hoo Phoenix in dark mode](hoo/screenshot.png) | ![Edo · Hoo Phoenix in light mode](hoo/screenshot-light.png) |
+
+## Orochi
+
+`edo-orochi` · The eight-headed serpent
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Orochi in dark mode](orochi/screenshot.png) | ![Edo · Orochi in light mode](orochi/screenshot-light.png) |
+
+## Kirin
+
+`edo-kirin` · The kirin galloping on clouds
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Kirin in dark mode](kirin/screenshot.png) | ![Edo · Kirin in light mode](kirin/screenshot-light.png) |
+
+## Baku
+
+`edo-baku` · The dream eater over the village
+
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Edo · Baku in dark mode](baku/screenshot.png) | ![Edo · Baku in light mode](baku/screenshot-light.png) |
