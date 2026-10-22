@@ -142,12 +142,12 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 | [Edo](themes/edo) | Orochi | `edo-orochi` | [dark](themes/edo/orochi/screenshot.png) · [light](themes/edo/orochi/screenshot-light.png) |
 | [Edo](themes/edo) | Kirin | `edo-kirin` | [dark](themes/edo/kirin/screenshot.png) · [light](themes/edo/kirin/screenshot-light.png) |
 | [Edo](themes/edo) | Baku | `edo-baku` | [dark](themes/edo/baku/screenshot.png) · [light](themes/edo/baku/screenshot-light.png) |
-| [Katana](themes/katana) | Uchigatana | `katana-uchigatana` | [dark](themes/katana/uchigatana/screenshot.png) |
-| [Katana](themes/katana) | Tachi | `katana-tachi` | [dark](themes/katana/tachi/screenshot.png) |
-| [Katana](themes/katana) | Wakizashi | `katana-wakizashi` | [dark](themes/katana/wakizashi/screenshot.png) |
-| [Katana](themes/katana) | Tanto | `katana-tanto` | [dark](themes/katana/tanto/screenshot.png) |
-| [Katana](themes/katana) | Odachi | `katana-odachi` | [dark](themes/katana/odachi/screenshot.png) |
-| [Katana](themes/katana) | Kodachi | `katana-kodachi` | [dark](themes/katana/kodachi/screenshot.png) |
+| [Katana](themes/katana) | Uchigatana | `katana-uchigatana` | [dark](themes/katana/uchigatana/screenshot.png) · [light](themes/katana/uchigatana/screenshot-light.png) |
+| [Katana](themes/katana) | Tachi | `katana-tachi` | [dark](themes/katana/tachi/screenshot.png) · [light](themes/katana/tachi/screenshot-light.png) |
+| [Katana](themes/katana) | Wakizashi | `katana-wakizashi` | [dark](themes/katana/wakizashi/screenshot.png) · [light](themes/katana/wakizashi/screenshot-light.png) |
+| [Katana](themes/katana) | Tanto | `katana-tanto` | [dark](themes/katana/tanto/screenshot.png) · [light](themes/katana/tanto/screenshot-light.png) |
+| [Katana](themes/katana) | Odachi | `katana-odachi` | [dark](themes/katana/odachi/screenshot.png) · [light](themes/katana/odachi/screenshot-light.png) |
+| [Katana](themes/katana) | Kodachi | `katana-kodachi` | [dark](themes/katana/kodachi/screenshot.png) · [light](themes/katana/kodachi/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/track/guards/screenshot.png) · [light](themes/gt3rs/track/guards/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/track/lava/screenshot.png) · [light](themes/gt3rs/track/lava/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/track/yellow/screenshot.png) · [light](themes/gt3rs/track/yellow/screenshot-light.png) |

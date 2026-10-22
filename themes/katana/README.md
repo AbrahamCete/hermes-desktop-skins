@@ -16,34 +16,46 @@
 
 `katana-uchigatana` · Ultraviolet steel mid-cut
 
-![Katana · Uchigatana applied to Hermes Desktop](uchigatana/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Katana · Uchigatana in dark mode](uchigatana/screenshot.png) | ![Katana · Uchigatana in light mode](uchigatana/screenshot-light.png) |
 
 ## Tachi
 
 `katana-tachi` · An ancient tachi on the altar
 
-![Katana · Tachi applied to Hermes Desktop](tachi/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Katana · Tachi in dark mode](tachi/screenshot.png) | ![Katana · Tachi in light mode](tachi/screenshot-light.png) |
 
 ## Wakizashi
 
 `katana-wakizashi` · Plasma storm around the blade
 
-![Katana · Wakizashi applied to Hermes Desktop](wakizashi/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Katana · Wakizashi in dark mode](wakizashi/screenshot.png) | ![Katana · Wakizashi in light mode](wakizashi/screenshot-light.png) |
 
 ## Tanto
 
 `katana-tanto` · A molten tanto spinning in the dark
 
-![Katana · Tanto applied to Hermes Desktop](tanto/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Katana · Tanto in dark mode](tanto/screenshot.png) | ![Katana · Tanto in light mode](tanto/screenshot-light.png) |
 
 ## Odachi
 
 `katana-odachi` · A giant blade on the ridge
 
-![Katana · Odachi applied to Hermes Desktop](odachi/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Katana · Odachi in dark mode](odachi/screenshot.png) | ![Katana · Odachi in light mode](odachi/screenshot-light.png) |
 
 ## Kodachi
 
 `katana-kodachi` · Two kodachi crossed in neon
 
-![Katana · Kodachi applied to Hermes Desktop](kodachi/screenshot.png)
+| Dark mode | Light mode |
+|:---:|:---:|
+| ![Katana · Kodachi in dark mode](kodachi/screenshot.png) | ![Katana · Kodachi in light mode](kodachi/screenshot-light.png) |
