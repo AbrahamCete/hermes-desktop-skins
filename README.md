@@ -7,7 +7,7 @@
 Dithered pixel art for the desktop app: a wide hero above the wordmark, two sidebar panels and a faint backdrop behind your conversations.
 Every theme has a dark and a light edition and a touch of animation. Install once and switch from the theme picker.
 
-<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 5 COLLECTIONS &nbsp;·&nbsp; 46 THEMES</sub>
+<sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; 6 COLLECTIONS &nbsp;·&nbsp; 52 THEMES</sub>
 
 <br /><br />
 
@@ -87,6 +87,14 @@ The 992 GT3 RS sideways in a cloud of tyre smoke, in seven factory colours. **[B
 
 <sub>`drift-guards` `drift-lava` `drift-yellow` `drift-python` `drift-shark` `drift-ruby` `drift-silver`</sub>
 
+### [Katana](themes/katana) &nbsp;<sub>6 themes</sub>
+
+<a href="themes/katana"><img src="themes/katana/banner.png" alt="Katana: Uchigatana, Tachi, Wakizashi, Tanto, Odachi, Kodachi" /></a>
+
+Six Japanese blades in neon colours never used before, glowing in the dark. **[Browse the collection →](themes/katana)**
+
+<sub>`katana-uchigatana` `katana-tachi` `katana-wakizashi` `katana-tanto` `katana-odachi` `katana-kodachi`</sub>
+
 ### [Space](themes/space)
 
 The space age in pixels: epic launches and missions, and the same five missions as a 1960s print.
@@ -108,7 +116,7 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 <sub>`space-saturn` `space-apollo` `space-voyager` `space-shuttle` `space-eva`</sub>
 
 <details>
-<summary><b>Every theme</b> (46)</summary>
+<summary><b>Every theme</b> (52)</summary>
 
 | Collection | Theme | Id | Screenshots |
 |---|---|---|---|
@@ -134,6 +142,12 @@ Five moments of the space age, from the Saturn V to the spacewalk. **[Browse the
 | [Edo](themes/edo) | Orochi | `edo-orochi` | [dark](themes/edo/orochi/screenshot.png) · [light](themes/edo/orochi/screenshot-light.png) |
 | [Edo](themes/edo) | Kirin | `edo-kirin` | [dark](themes/edo/kirin/screenshot.png) · [light](themes/edo/kirin/screenshot-light.png) |
 | [Edo](themes/edo) | Baku | `edo-baku` | [dark](themes/edo/baku/screenshot.png) · [light](themes/edo/baku/screenshot-light.png) |
+| [Katana](themes/katana) | Uchigatana | `katana-uchigatana` | [dark](themes/katana/uchigatana/screenshot.png) |
+| [Katana](themes/katana) | Tachi | `katana-tachi` | [dark](themes/katana/tachi/screenshot.png) |
+| [Katana](themes/katana) | Wakizashi | `katana-wakizashi` | [dark](themes/katana/wakizashi/screenshot.png) |
+| [Katana](themes/katana) | Tanto | `katana-tanto` | [dark](themes/katana/tanto/screenshot.png) |
+| [Katana](themes/katana) | Odachi | `katana-odachi` | [dark](themes/katana/odachi/screenshot.png) |
+| [Katana](themes/katana) | Kodachi | `katana-kodachi` | [dark](themes/katana/kodachi/screenshot.png) |
 | [GT3 RS](themes/gt3rs/track) | Guards Red | `gt3rs-guards` | [dark](themes/gt3rs/track/guards/screenshot.png) · [light](themes/gt3rs/track/guards/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Lava Orange | `gt3rs-lava` | [dark](themes/gt3rs/track/lava/screenshot.png) · [light](themes/gt3rs/track/lava/screenshot-light.png) |
 | [GT3 RS](themes/gt3rs/track) | Racing Yellow | `gt3rs-yellow` | [dark](themes/gt3rs/track/yellow/screenshot.png) · [light](themes/gt3rs/track/yellow/screenshot-light.png) |
